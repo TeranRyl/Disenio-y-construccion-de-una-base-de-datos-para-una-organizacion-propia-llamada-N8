@@ -1,0 +1,84 @@
+/* Ingreso de datos correctos. (Sin automatización) */
+
+
+/* USERS */
+INSERT INTO USERS VALUES('CC','42325427','juanteran@gmail.com','12345ROD', 'Street 222 # 34-50', 3214324 );
+INSERT INTO USERS VALUES('FID','42325428','sebastianrojas@gmail.com','123456ROD', 'Street 222 # 35-50', 3214327 );
+
+/* DOCUMENTS */
+INSERT INTO DOCUMENTS VALUES(5,'CC','42325427', 'file\\\Fotocopia_Documentos.pdf');
+
+/* QUALIFICATIONS */
+INSERT INTO QUALIFICATIONS VALUES('CC','42325427','FID','42325428', 4.5);
+
+/* HOSTERS */
+INSERT INTO HOSTERS VALUES('CC','42325427');
+
+/* COSTUMERS */
+INSERT INTO COSTUMERS VALUES('CC','42325427');
+
+/* EVENTS */
+INSERT INTO EVENTS VALUES('28734687','CC','42325427', NULL, 'Just for fun');
+
+/* LEGAL_STANDARS */
+INSERT INTO LEGAL_STANDARS VALUES(1,'28734687','file\\\Estandares_legales_2022.pdf');
+
+/* BARS */
+INSERT INTO BARS VALUES('CC','42325427', 23242, NULL);
+
+/* TIMETABLES */
+INSERT INTO TIMETABLES VALUES(23242, 'FRY. 20:00 - 03:00');
+
+/* CAN_SEE */
+INSERT INTO CAN_SEE VALUES('CC','42325427', 24);
+
+/* PRIORITIES */
+INSERT INTO PRIORITIES VALUES('Premium', 10000, NULL);
+
+/* POSTS */
+INSERT INTO POSTS VALUES(24,'28734687', 'Premium');
+
+/* RESERVATIONS */
+INSERT INTO RESERVATIONS VALUES('27','Accepted',25000,NULL,24);
+
+/* PRICES */
+INSERT INTO PRICES VALUES(4,27,24,'13213', NULL, NULL);
+
+/* DETAILS */
+INSERT INTO DETAILS VALUES('28734687', NULL, NULL);
+
+/* PLACES */
+INSERT INTO PLACES VALUES(10,'Street 187 # 20-45',200,TO_DATE('2022/10/31','yyyy/mm/dd'),'Maria, Paula, Camila, Juan, Jose, Raul, Rodrigo','Urban','28734687');
+
+/* MENUS */
+INSERT INTO MENUS VALUES(1511,'Drinks');
+
+/* PRODUCTS */
+INSERT INTO PRODUCTS VALUES('Soda 250 ml','13213', 2000, NULL, 1511);
+
+/* PAYMENTS */
+INSERT INTO PAYMENTS VALUES(1,'Davivienda',32575144889, 'Requested',TO_DATE('2022/03/18','yyyy/mm/dd'), '27','Premium','13213' );
+
+/* TICKETS */
+INSERT INTO TICKETS VALUES(7,'file\\\codigoQR.pdf',1);
+
+/* CAN_ACCESS */
+INSERT INTO CAN_ACCESS VALUES('CC','42325427', 1511);
+
+/* SPONSORS */
+INSERT INTO SPONSORS VALUES(36463861,'Tu Catalogo Digital');
+
+/* OFFERS */
+INSERT INTO OFFERS VALUES(36463861,'13213');
+
+/* CONTAINS */
+INSERT INTO CONTAINS VALUES(36463861,'28734687');
+
+
+
+-- PoblarNoOK
+
+/* Intento de ingreso de datos erroneos protegidos por los tipos de datos, 
+   definición de nulidades y claves primarias, únicas y foraneas. */
+
+INSERT INTO MENUS VALUES(1511,NULL); /* Por definicion el atributo MENUS_type se encuentra protegido, pues el ingreso de datos deberia ser una CADENA NO NULA. */

@@ -1,0 +1,1001 @@
+place_no,address,capacity,eventDate,lineUp,gender,eventState,EVENTS_reference_code
+1,Street 30G#96S-24,275,5/7/2022,Lucia Tacchetti,Rock Punk,Open,693440
+2,Transversal 25q#04V-61,288,7/29/2021,D3FA,New Wave,Closed,480197
+3,Career 00c#60N-30,139,4/2/2022,wiranda johansen,Shoegaze,Open,838828
+4,Street 14I#32J-67,475,5/15/2022,D3FA,Rock Punk,Closed,580481
+5,Transversal 78P#93s-40,408,7/24/2021,Lucia Tacchetti,Rock Punk,Closed,228545
+6,Transversal 95d#68S-76,116,5/2/2022,D3FA,New Wave,Open,410297
+7,Career 87v#34S-28,500,2/18/2022,D3FA,Shoegaze,Closed,878681
+8,Career 19F#64T-13,337,10/10/2021,D3FA,Shoegaze,Open,379085
+9,Transversal 13V#16a-01,226,11/4/2021,D3FA,New Wave,Closed,822296
+10,Transversal 06l#89r-54,497,12/13/2021,Molok0,Steampunk,Closed,363926
+11,Street 23Z#98Z-47,408,11/21/2021,D3FA,Steampunk,Closed,291897
+12,Career 94o#84G-96,161,9/28/2021,D3FA,Shoegaze,Open,109960
+13,Street 22U#90r-59,441,8/22/2021,wiranda johansen,Progressive,Closed,775063
+14,Transversal 95u#40l-82,305,12/13/2021,Lucia Tacchetti,Steampunk,Closed,760957
+15,Career 23C#78D-56,370,11/29/2021,wiranda johansen,Progressive,Open,855519
+16,Career 07b#86Q-44,183,7/5/2021,D3FA,Steampunk,Open,99673
+17,Transversal 25D#67T-64,70,2/15/2022,D3FA,Steampunk,Open,159760
+18,Avenue 45Y#76C-13,70,7/27/2021,D3FA,Rock Punk,Closed,216837
+19,Transversal 86a#25f-04,293,6/19/2021,D3FA,Steampunk,Open,726009
+20,Avenue 29L#13V-53,127,7/19/2021,D3FA,Steampunk,Open,65149
+21,Avenue Street 20Y#59y-41,419,3/21/2022,D3FA,Rock Punk,Open,285643
+22,Career 74r#43H-48,477,2/26/2022,Lucia Tacchetti,Progressive,Closed,839692
+23,Career 13q#91M-43,102,1/21/2022,D3FA,Shoegaze,Open,647389
+24,Transversal 57E#44I-29,273,1/8/2022,D3FA,Steampunk,Closed,990870
+25,Career 93G#53K-22,127,8/14/2021,D3FA,Steampunk,Closed,693048
+26,Transversal 28J#15H-99,398,1/25/2022,wiranda johansen,Steampunk,Closed,239764
+27,Transversal 11B#31J-56,5,12/17/2021,D3FA,Steampunk,Open,670869
+28,Street 02q#90o-88,242,12/17/2021,D3FA,Steampunk,Closed,228359
+29,Career 37j#37F-82,183,1/27/2022,D3FA,Shoegaze,Open,333476
+30,Career 87a#28E-93,387,12/19/2021,D3FA,Steampunk,Closed,66086
+31,Career 86L#58G-91,362,8/14/2021,D3FA,Lo fi,Closed,903411
+32,Transversal 91z#21j-61,108,1/23/2022,D3FA,Rock,Open,586174
+33,Career 43x#79y-20,321,6/5/2021,D3FA,Rock Punk,Open,426542
+34,Transversal 14p#45Y-19,404,11/22/2021,Lucia Tacchetti,Steampunk,Closed,894216
+35,Career 98z#19V-19,451,8/11/2021,D3FA,Shoegaze,Closed,348360
+36,Transversal 87g#04a-15,272,1/16/2022,Chiara Parravicini,Musique Concrète,Open,985934
+37,Transversal 30w#53E-51,186,1/3/2022,D3FA,Rock Punk,Open,352192
+38,Transversal 43d#79P-64,272,12/29/2021,D3FA,Steampunk,Open,818680
+39,Transversal 09N#79o-16,234,2/4/2022,Lucia Tacchetti,Progressive,Open,138808
+40,Avenue 36N#95O-45,134,4/16/2022,Lucia Tacchetti,Steampunk,Open,15523
+41,Transversal 97h#80v-89,367,12/9/2021,D3FA,Shoegaze,Closed,804422
+42,Transversal 08c#99Z-70,325,1/12/2022,D3FA,Shoegaze,Open,497771
+43,Avenue Street 39q#46g-45,338,5/30/2021,wiranda johansen,Shoegaze,Open,188116
+44,Career 77W#30K-09,48,9/18/2021,Lucia Tacchetti,Shoegaze,Closed,517697
+45,Career 15C#26y-18,239,9/8/2021,Lucia Tacchetti,Rock Punk,Open,491848
+46,Transversal 32C#97s-86,414,2/6/2022,D3FA,Steampunk,Closed,800865
+47,Career 20X#52S-81,96,8/12/2021,Lucia Tacchetti,Steampunk,Closed,655103
+48,Transversal 47c#88z-58,21,5/22/2021,Lucia Tacchetti,Steampunk,Closed,732089
+49,Avenue 17R#57Z-60,284,1/21/2022,wiranda johansen,Lo fi,Open,413080
+50,Career 49q#86M-63,135,6/7/2021,D3FA,Shoegaze,Open,125758
+51,Transversal 06C#85e-70,194,9/12/2021,Molok0,Steampunk,Closed,238547
+52,Transversal 46l#85i-88,399,9/24/2021,D3FA,Steampunk,Closed,965382
+53,Career 19F#66i-62,165,6/14/2021,D3FA,Shoegaze,Open,999120
+54,Career 27h#99f-60,372,5/16/2022,Lucia Tacchetti,Steampunk,Closed,870971
+55,Career 65i#99Q-60,56,3/7/2022,D3FA,Rock Punk,Open,531304
+56,Avenue Street 71I#98p-73,31,1/10/2022,Lucia Tacchetti,Shoegaze,Open,90688
+57,Career 88p#37O-60,383,2/28/2022,D3FA,Steampunk,Open,785733
+58,Career 97r#25X-50,128,12/28/2021,Lucia Tacchetti,Steampunk,Closed,494491
+59,Transversal 62V#42x-89,425,4/23/2022,Lucia Tacchetti,Steampunk,Closed,166363
+60,Transversal 26U#86O-17,63,6/23/2021,D3FA,Steampunk,Open,822015
+61,Avenue Street 78h#50r-66,475,9/29/2021,Lucia Tacchetti,Shoegaze,Open,921197
+62,Career 44S#29a-95,110,8/10/2021,Lucia Tacchetti,Rock Punk,Open,221213
+63,Transversal 25N#46p-78,324,1/21/2022,D3FA,Steampunk,Open,19483
+64,Transversal 36R#68w-17,25,12/13/2021,wiranda johansen,Steampunk,Closed,401969
+65,Transversal 78l#13g-09,482,7/17/2021,Lucia Tacchetti,Shoegaze,Closed,453402
+66,Transversal 46l#33c-01,112,7/17/2021,wiranda johansen,Steampunk,Open,247317
+67,Transversal 61d#42d-81,319,3/30/2022,D3FA,Steampunk,Open,136721
+68,Transversal 84I#49z-94,207,11/25/2021,D3FA,Progressive,Closed,998321
+69,Transversal 62G#27b-62,254,6/18/2021,D3FA,Shoegaze,Open,197909
+70,Transversal 96b#57z-03,283,11/20/2021,D3FA,Shoegaze,Open,811790
+71,Career 12Q#00N-48,138,11/30/2021,Lucia Tacchetti,Shoegaze,Open,102656
+72,Street 73P#37i-04,482,12/9/2021,D3FA,Steampunk,Closed,366145
+73,Avenue 77G#66D-00,277,8/28/2021,Molok0,Rock Punk,Closed,147963
+74,Avenue 75N#76v-04,7,6/7/2021,D3FA,Steampunk,Closed,54273
+75,Transversal 43G#19p-73,90,9/21/2021,D3FA,Steampunk,Closed,781614
+76,Career 63F#31N-29,455,6/17/2021,D3FA,Steampunk,Open,639136
+77,Career 74K#01I-04,125,12/14/2021,Ghetto Kids,Shoegaze,Closed,891113
+78,Transversal 15N#53d-20,381,5/11/2022,Lucia Tacchetti,Steampunk,Open,21832
+79,Transversal 99t#60H-00,234,9/11/2021,D3FA,Steampunk,Closed,264920
+80,Career 82u#19r-45,188,12/19/2021,wiranda johansen,Steampunk,Closed,265234
+81,Avenue 07b#61y-24,79,5/4/2022,wiranda johansen,Steampunk,Open,187811
+82,Transversal 96y#12N-89,38,5/7/2022,D3FA,Musique Concrète,Closed,2877
+83,Transversal 22N#77F-66,48,3/15/2022,D3FA,Progressive,Open,390878
+84,Transversal 49m#66W-46,186,4/21/2022,D3FA,Steampunk,Closed,314055
+85,Transversal 70S#95h-12,101,12/20/2021,D3FA,Steampunk,Closed,942330
+86,Transversal 75X#69M-78,3,10/19/2021,D3FA,Rock Punk,Open,371181
+87,Career 35i#85U-52,216,4/25/2022,wiranda johansen,New Wave,Open,228366
+88,Transversal 09N#79o-16,90,11/29/2021,D3FA,Steampunk,Closed,286779
+89,Transversal 35O#47t-95,61,4/4/2022,D3FA,Shoegaze,Closed,30515
+90,Avenue 05z#20c-49,152,2/20/2022,Chiara Parravicini,Shoegaze,Closed,631852
+91,Career 86k#97k-50,493,3/20/2022,D3FA,Shoegaze,Open,356824
+92,Transversal 44f#50G-10,233,1/15/2022,Molok0,Steampunk,Closed,853826
+93,Transversal 31F#36G-49,224,4/18/2022,D3FA,Steampunk,Closed,583769
+94,Transversal 35L#36a-37,201,3/5/2022,wiranda johansen,Steampunk,Closed,938997
+95,Career 84E#89M-28,358,5/10/2022,Lucia Tacchetti,Steampunk,Open,403428
+96,Transversal 55c#06y-18,467,10/25/2021,Chiara Parravicini,Steampunk,Open,134073
+97,Career 00v#46c-31,417,1/10/2022,Lucia Tacchetti,Steampunk,Open,202140
+98,Transversal 40A#64C-55,473,5/22/2021,D3FA,Steampunk,Closed,512888
+99,Transversal 03e#50F-30,89,5/12/2022,Molok0,Shoegaze,Open,993754
+100,Transversal 76e#18I-29,423,9/3/2021,Molok0,Shoegaze,Open,982554
+101,Avenue 57p#73S-94,71,10/18/2021,Lucia Tacchetti,Rock Punk,Closed,253588
+102,Career 77W#30K-09,156,8/14/2021,Lucia Tacchetti,Shoegaze,Closed,922673
+103,Transversal 56L#72j-59,120,4/16/2022,wiranda johansen,Progressive,Closed,785643
+104,Avenue 94X#07F-06,146,12/29/2021,D3FA,Steampunk,Closed,615104
+105,Transversal 67N#38z-52,316,5/6/2022,D3FA,Steampunk,Open,77945
+106,Avenue 00p#60b-42,117,6/3/2021,D3FA,Shoegaze,Closed,544474
+107,Career 43w#34f-24,72,12/5/2021,Lucia Tacchetti,Steampunk,Open,152263
+108,Transversal 87A#13H-34,494,12/28/2021,wiranda johansen,Progressive,Open,901810
+109,Street 23f#29X-38,373,8/4/2021,Lucia Tacchetti,Steampunk,Closed,722403
+110,Transversal 71U#17X-42,170,2/6/2022,D3FA,Steampunk,Open,388746
+111,Career 42e#25W-21,41,11/15/2021,D3FA,Steampunk,Closed,589832
+112,Career 82u#19r-45,262,4/21/2022,wiranda johansen,Shoegaze,Closed,68733
+113,Transversal 24W#23b-65,454,10/16/2021,wiranda johansen,Steampunk,Open,652643
+114,Avenue 16r#45L-74,184,5/2/2022,D3FA,Steampunk,Closed,969224
+115,Avenue Street 69G#97V-48,44,7/24/2021,D3FA,Rock Punk,Open,650615
+116,Avenue 56y#66u-74,442,7/12/2021,D3FA,Rock Punk,Open,153835
+117,Transversal 04w#76s-94,31,8/31/2021,D3FA,Steampunk,Open,311917
+118,Avenue 68X#57z-06,160,1/7/2022,Lucia Tacchetti,Steampunk,Closed,764672
+119,Avenue 13f#14J-42,363,12/15/2021,Lucia Tacchetti,Shoegaze,Closed,666726
+120,Transversal 53J#29D-21,338,12/17/2021,D3FA,Shoegaze,Open,353823
+121,Transversal 95d#68S-76,156,9/21/2021,D3FA,Rock Punk,Open,732467
+122,Avenue 43Y#95B-31,32,5/1/2022,D3FA,Shoegaze,Closed,782378
+123,Transversal 91C#88J-26,453,1/14/2022,Lucia Tacchetti,Shoegaze,Closed,690321
+124,Transversal 81E#05B-10,450,3/31/2022,wiranda johansen,Steampunk,Closed,221466
+125,Career 96v#31O-70,82,11/10/2021,D3FA,Shoegaze,Open,994233
+126,Transversal 84C#61H-54,302,5/18/2022,D3FA,Steampunk,Open,227486
+127,Career 49F#23f-81,466,6/25/2021,D3FA,Shoegaze,Closed,766193
+128,Transversal 65A#31M-41,341,7/14/2021,D3FA,Musique Concrète,Closed,587390
+129,Career 43Q#39A-45,484,7/20/2021,D3FA,Lo fi,Open,390602
+130,Street 99j#42O-18,316,8/12/2021,D3FA,Steampunk,Closed,990359
+131,Career 74K#01I-04,381,11/14/2021,Lucia Tacchetti,New Wave,Closed,151809
+132,Avenue Street 67L#41X-91,370,2/12/2022,Lucia Tacchetti,Steampunk,Open,691213
+133,Transversal 26Y#82Q-06,440,11/24/2021,Molok0,Steampunk,Open,185326
+134,Transversal 95u#40l-82,199,12/31/2021,D3FA,Steampunk,Closed,955689
+135,Transversal 88D#29Q-04,37,10/7/2021,Lucia Tacchetti,Steampunk,Closed,544737
+136,Career 47y#05F-45,209,10/26/2021,D3FA,Progressive,Closed,2898
+137,Transversal 97o#06O-90,81,12/29/2021,Lucia Tacchetti,Rock,Closed,947846
+138,Career 11F#27U-73,76,5/18/2022,D3FA,Lo fi,Open,992590
+139,Street 09d#34W-68,465,3/8/2022,Lucia Tacchetti,Lo fi,Closed,816492
+140,Career 68l#89O-21,427,2/24/2022,wiranda johansen,Steampunk,Closed,648432
+141,Transversal 84J#60M-36,447,6/5/2021,Chiara Parravicini,Steampunk,Closed,859101
+142,Transversal 42w#31o-41,59,5/1/2022,wiranda johansen,Shoegaze,Open,491984
+143,Transversal 71j#05G-51,328,6/6/2021,wiranda johansen,Steampunk,Open,25642
+144,Transversal 38c#56v-34,125,2/27/2022,D3FA,Musique Concrète,Closed,883796
+145,Career 94o#84G-96,304,10/24/2021,wiranda johansen,Steampunk,Open,295756
+146,Transversal 61m#19g-54,394,10/10/2021,wiranda johansen,Steampunk,Open,400911
+147,Avenue 84s#99k-25,182,1/31/2022,D3FA,Shoegaze,Open,464314
+148,Street 68E#16r-89,198,2/26/2022,Lucia Tacchetti,Steampunk,Closed,138204
+149,Avenue Street 26v#64K-36,448,8/2/2021,D3FA,Steampunk,Open,994778
+150,Avenue 52c#75T-30,13,12/2/2021,D3FA,Steampunk,Closed,702968
+151,Transversal 35L#36a-37,413,2/1/2022,D3FA,Steampunk,Closed,883793
+152,Career 39Z#22A-26,218,4/14/2022,D3FA,Progressive,Open,675170
+153,Transversal 00W#00m-87,292,1/6/2022,D3FA,Steampunk,Closed,610168
+154,Career 31o#22G-07,210,5/23/2021,D3FA,New Wave,Closed,8635
+155,Street 22s#46b-62,363,2/12/2022,D3FA,Shoegaze,Closed,365352
+156,Transversal 84g#59S-46,186,5/20/2022,D3FA,Steampunk,Open,757179
+157,Transversal 49O#11C-44,167,8/27/2021,Molok0,Steampunk,Open,144063
+158,Career 20X#52S-81,36,3/14/2022,Lucia Tacchetti,Shoegaze,Open,9228
+159,Career 25D#12b-00,350,4/20/2022,D3FA,Shoegaze,Closed,614251
+160,Transversal 27X#99O-35,493,9/19/2021,Lucia Tacchetti,Shoegaze,Open,626411
+161,Transversal 19e#65F-23,95,2/3/2022,wiranda johansen,Steampunk,Closed,189749
+162,Transversal 10I#35U-38,35,12/22/2021,D3FA,Steampunk,Closed,761963
+163,Transversal 68E#77J-11,84,12/19/2021,wiranda johansen,New Wave,Closed,716020
+164,Transversal 36s#62F-01,4,3/21/2022,D3FA,Progressive,Closed,6669
+165,Career 43Q#26e-78,5,6/10/2021,Chiara Parravicini,Steampunk,Closed,575057
+166,Career 94o#84G-96,105,3/24/2022,Lucia Tacchetti,Shoegaze,Closed,917709
+167,Transversal 52f#37T-21,15,2/13/2022,Lucia Tacchetti,Shoegaze,Closed,786560
+168,Career 00c#19O-44,82,1/27/2022,Lucia Tacchetti,Steampunk,Open,623880
+169,Transversal 73V#55J-15,14,5/16/2022,D3FA,New Wave,Closed,669775
+170,Street 82R#44Q-17,403,3/4/2022,D3FA,Shoegaze,Open,724758
+171,Career 86e#83Q-79,13,2/26/2022,Lucia Tacchetti,Shoegaze,Closed,842675
+172,Avenue 56j#01Q-94,455,6/20/2021,D3FA,Steampunk,Closed,582002
+173,Transversal 64z#86l-81,146,11/27/2021,Lucia Tacchetti,New Wave,Closed,584160
+174,Transversal 80O#59u-80,1,11/14/2021,D3FA,Steampunk,Closed,33818
+175,Career 50R#23O-21,352,2/22/2022,Lucia Tacchetti,Rock Punk,Open,499598
+176,Transversal 11z#23T-74,68,8/18/2021,D3FA,Steampunk,Open,805176
+177,Transversal 75X#69M-78,392,8/5/2021,Lucia Tacchetti,Steampunk,Open,985604
+178,Transversal 70A#42A-39,235,7/30/2021,D3FA,New Wave,Closed,144399
+179,Transversal 51V#40K-63,6,3/24/2022,Lucia Tacchetti,Steampunk,Open,769540
+180,Transversal 57A#14t-86,298,10/16/2021,D3FA,Steampunk,Open,229654
+181,Transversal 62V#42x-89,207,7/27/2021,Chiara Parravicini,Steampunk,Closed,271592
+182,Transversal 49P#81E-01,309,8/11/2021,Ghetto Kids,New Wave,Open,790875
+183,Transversal 02M#72T-95,416,5/23/2021,D3FA,Steampunk,Open,278065
+184,Career 00v#27i-78,103,5/9/2022,Lucia Tacchetti,Steampunk,Closed,472125
+185,Career 39F#49m-30,21,7/9/2021,D3FA,Steampunk,Open,121335
+186,Transversal 22Q#48f-76,205,10/6/2021,D3FA,Shoegaze,Closed,538347
+187,Transversal 62G#27b-62,356,7/19/2021,Lucia Tacchetti,Steampunk,Open,758827
+188,Avenue Street 57h#45P-81,459,11/6/2021,wiranda johansen,Steampunk,Open,489669
+189,Transversal 73A#83r-80,461,10/25/2021,D3FA,Steampunk,Closed,89902
+190,Transversal 06l#89r-54,189,4/17/2022,Lucia Tacchetti,New Wave,Open,913141
+191,Career 23q#32W-91,130,6/13/2021,D3FA,Shoegaze,Open,224282
+192,Transversal 15v#04e-29,158,9/13/2021,D3FA,New Wave,Open,70496
+193,Career 88p#37O-60,281,3/16/2022,D3FA,Shoegaze,Closed,754091
+194,Career 98z#19V-19,413,2/18/2022,D3FA,Steampunk,Open,716732
+195,Avenue 29L#13V-53,3,11/24/2021,Lucia Tacchetti,Steampunk,Open,893086
+196,Transversal 76e#18I-29,315,6/3/2021,Lucia Tacchetti,Steampunk,Open,91622
+197,Transversal 40z#11K-39,151,8/31/2021,D3FA,Shoegaze,Closed,956156
+198,Transversal 82g#86l-25,207,10/24/2021,D3FA,Steampunk,Closed,878502
+199,Transversal 03D#44R-84,183,2/12/2022,Lucia Tacchetti,Shoegaze,Closed,475847
+200,Avenue Street 40G#14Y-15,220,11/13/2021,wiranda johansen,Steampunk,Open,33893
+201,Avenue 29L#13V-53,206,1/9/2022,D3FA,Steampunk,Open,660524
+202,Transversal 27i#41Y-63,162,6/18/2021,Ghetto Kids,Steampunk,Open,895011
+203,Transversal 40Q#58C-17,387,7/28/2021,D3FA,Steampunk,Open,832402
+204,Career 23q#32W-91,192,7/13/2021,D3FA,Shoegaze,Open,790033
+205,Avenue 08R#73V-15,397,10/17/2021,Lucia Tacchetti,Rock Punk,Closed,706166
+206,Career 11F#27U-73,500,10/23/2021,D3FA,Steampunk,Open,344867
+207,Avenue Street 57h#45P-81,340,9/27/2021,D3FA,Steampunk,Open,788216
+208,Transversal 79E#19U-29,147,7/15/2021,Molok0,Shoegaze,Closed,104072
+209,Career 00c#60N-30,52,12/11/2021,Molok0,Rock Punk,Open,317240
+210,Transversal 52U#73R-73,422,12/11/2021,Girl Ultra,Steampunk,Closed,468617
+211,Transversal 99V#56C-21,345,1/6/2022,D3FA,Rock Punk,Open,867206
+212,Transversal 36R#68w-17,251,6/1/2021,wiranda johansen,Steampunk,Open,449492
+213,Transversal 23J#44R-96,336,7/31/2021,D3FA,Steampunk,Open,643907
+214,Career 15A#79J-75,290,6/20/2021,Lucia Tacchetti,Steampunk,Closed,824627
+215,Avenue 67E#77z-84,308,9/29/2021,D3FA,Rock Punk,Open,999069
+216,Career 12E#64n-01,412,1/28/2022,wiranda johansen,Progressive,Open,95457
+217,Career 02I#70y-29,421,9/27/2021,Lucia Tacchetti,Progressive,Closed,903313
+218,Transversal 60W#08M-78,206,7/13/2021,D3FA,Rock Punk,Open,638264
+219,Transversal 54a#89Y-76,157,2/23/2022,D3FA,Progressive,Closed,839012
+220,Transversal 06l#89r-54,404,10/10/2021,Lucia Tacchetti,Steampunk,Closed,785440
+221,Career 96E#02o-89,493,5/24/2021,D3FA,Steampunk,Open,192388
+222,Transversal 97z#98M-02,186,4/22/2022,D3FA,Shoegaze,Open,40686
+223,Transversal 09O#06V-37,227,8/20/2021,Clara Cava,Rock Punk,Closed,648442
+224,Career 82R#25Q-68,240,12/16/2021,D3FA,Shoegaze,Open,53513
+225,Transversal 00W#10D-70,488,1/23/2022,wiranda johansen,Steampunk,Open,949765
+226,Career 44v#55t-97,217,12/7/2021,D3FA,Steampunk,Closed,866461
+227,Career 77h#46N-29,150,6/20/2021,Lucia Tacchetti,Shoegaze,Closed,123720
+228,Transversal 11z#23T-74,237,5/8/2022,Molok0,Progressive,Closed,811966
+229,Street 60H#69D-76,497,1/14/2022,D3FA,Shoegaze,Closed,681540
+230,Career 60m#76g-41,23,3/28/2022,Lucia Tacchetti,Steampunk,Open,630978
+231,Avenue 07b#61y-24,245,10/23/2021,Lucia Tacchetti,Shoegaze,Open,419129
+232,Transversal 49F#43a-23,496,4/4/2022,Chiara Parravicini,Steampunk,Closed,671642
+233,Transversal 30w#53E-51,458,8/17/2021,D3FA,Rock Punk,Closed,286788
+234,Transversal 29e#90J-35,222,7/17/2021,Lucia Tacchetti,Steampunk,Closed,415163
+235,Transversal 77u#76R-30,6,10/19/2021,D3FA,Rock Punk,Closed,801844
+236,Transversal 81E#05B-10,293,10/23/2021,D3FA,Steampunk,Open,942442
+237,Avenue Street 84I#18Q-87,408,3/7/2022,wiranda johansen,Rock Punk,Open,312164
+238,Career 87m#03R-41,148,1/7/2022,Lucia Tacchetti,Steampunk,Open,335853
+239,Transversal 87g#04a-15,91,6/9/2021,D3FA,Shoegaze,Closed,71386
+240,Transversal 13q#43f-93,311,8/24/2021,D3FA,Steampunk,Closed,402610
+241,Transversal 56G#18z-39,370,1/17/2022,Molok0,Progressive,Open,495423
+242,Transversal 51V#40K-63,437,10/25/2021,D3FA,Shoegaze,Closed,580530
+243,Transversal 20U#34c-82,103,5/4/2022,Lucia Tacchetti,Steampunk,Closed,149506
+244,Transversal 09E#75U-78,235,10/11/2021,wiranda johansen,Rock Punk,Open,151784
+245,Transversal 07D#51E-39,8,1/25/2022,Lucia Tacchetti,Steampunk,Closed,613623
+246,Career 49I#33F-07,210,5/25/2021,D3FA,Shoegaze,Closed,422974
+247,Transversal 95s#60a-53,187,4/19/2022,wiranda johansen,Steampunk,Closed,580564
+248,Transversal 77E#58a-69,197,10/26/2021,wiranda johansen,Steampunk,Open,373959
+249,Transversal 22N#77F-66,447,3/18/2022,D3FA,Shoegaze,Open,967899
+250,Career 47y#05F-45,268,3/26/2022,wiranda johansen,Steampunk,Closed,920708
+251,Career 27y#97j-61,377,12/19/2021,D3FA,Rock Punk,Open,140265
+252,Transversal 69Q#44h-09,282,10/8/2021,D3FA,Steampunk,Closed,803911
+253,Transversal 15v#04e-29,90,6/4/2021,Lucia Tacchetti,Steampunk,Open,578575
+254,Avenue 86d#24T-67,396,3/30/2022,D3FA,Steampunk,Closed,368485
+255,Transversal 33o#48D-47,381,9/4/2021,Girl Ultra,Steampunk,Closed,152868
+256,Street 89c#45j-60,493,6/28/2021,D3FA,Steampunk,Closed,846385
+257,Transversal 41q#86O-68,442,6/21/2021,Lucia Tacchetti,Steampunk,Open,268538
+258,Career 00c#60N-30,91,11/22/2021,Lucia Tacchetti,Rock Punk,Open,671299
+259,Career 84E#89M-28,95,7/11/2021,D3FA,Shoegaze,Closed,864226
+260,Avenue Street 24a#66G-13,133,10/12/2021,D3FA,New Wave,Open,993610
+261,Avenue 54o#79C-44,78,11/23/2021,Chiara Parravicini,Steampunk,Closed,217298
+262,Street 54j#48Y-79,208,2/25/2022,Lucia Tacchetti,Steampunk,Closed,35167
+263,Career 56J#86K-13,84,7/21/2021,D3FA,Steampunk,Closed,359065
+264,Career 74z#84f-70,360,11/30/2021,D3FA,Shoegaze,Open,893472
+265,Transversal 94E#67R-45,180,3/26/2022,Lucia Tacchetti,New Wave,Open,744068
+266,Career 76w#11p-81,387,6/12/2021,wiranda johansen,Shoegaze,Open,298339
+267,Transversal 60q#58t-71,31,1/29/2022,wiranda johansen,Steampunk,Closed,96637
+268,Transversal 15M#41o-39,92,9/22/2021,D3FA,Rock,Open,686220
+269,Transversal 19c#70V-78,245,12/11/2021,Chiara Parravicini,Steampunk,Closed,158282
+270,Transversal 46H#94P-67,337,9/17/2021,D3FA,Steampunk,Open,766817
+271,Transversal 56C#13P-59,58,12/11/2021,D3FA,Steampunk,Open,842666
+272,Street 78u#66x-73,143,7/7/2021,D3FA,Rock Punk,Open,608634
+273,Career 00E#90D-59,133,6/21/2021,D3FA,Steampunk,Open,743825
+274,Transversal 65U#80Y-24,310,9/10/2021,D3FA,Rock Punk,Closed,357034
+275,Transversal 21t#49d-99,186,1/4/2022,D3FA,Shoegaze,Closed,576282
+276,Transversal 87Q#88T-37,101,1/6/2022,D3FA,Rock Punk,Closed,694210
+277,Avenue 75N#76v-04,460,10/22/2021,D3FA,Steampunk,Closed,169349
+278,Transversal 25m#15v-44,278,9/21/2021,Girl Ultra,Steampunk,Closed,345211
+279,Transversal 95u#40l-82,80,12/15/2021,D3FA,Shoegaze,Open,382642
+280,Career 54l#68Y-32,194,8/12/2021,wiranda johansen,Shoegaze,Open,235004
+281,Career 96v#31O-70,10,8/1/2021,wiranda johansen,Shoegaze,Open,332131
+282,Career 19F#66i-62,387,1/12/2022,D3FA,Shoegaze,Open,737489
+283,Transversal 87x#08O-85,409,8/29/2021,D3FA,Steampunk,Open,249984
+284,Avenue Street 04I#11K-07,312,8/11/2021,D3FA,New Wave,Closed,854336
+285,Transversal 73B#55q-83,415,1/23/2022,D3FA,Shoegaze,Open,337183
+286,Avenue Street 84I#18Q-87,26,10/26/2021,Lucia Tacchetti,Steampunk,Open,920546
+287,Transversal 40Q#58C-17,461,10/5/2021,D3FA,Shoegaze,Closed,686645
+288,Transversal 74a#56L-90,290,10/6/2021,wiranda johansen,Steampunk,Closed,414821
+289,Career 39Z#22A-26,185,7/11/2021,D3FA,Shoegaze,Closed,773410
+290,Transversal 06W#02u-24,455,1/20/2022,wiranda johansen,Steampunk,Open,579882
+291,Career 06G#39q-50,279,10/13/2021,Lucia Tacchetti,Rock Punk,Closed,405111
+292,Avenue 56y#66u-74,46,8/12/2021,D3FA,Steampunk,Open,943065
+293,Career 25M#85J-89,187,10/17/2021,Lucia Tacchetti,Shoegaze,Open,254082
+294,Career 49m#22D-15,380,1/1/2022,D3FA,Punk,Closed,377148
+295,Career 11q#79R-16,145,11/27/2021,Lucia Tacchetti,Steampunk,Open,798693
+296,Career 00v#46c-31,278,11/14/2021,Lucia Tacchetti,Steampunk,Open,955400
+297,Transversal 91z#21j-61,370,7/31/2021,D3FA,Steampunk,Closed,576388
+298,Avenue 11A#15r-63,489,5/1/2022,D3FA,Steampunk,Closed,955503
+299,Transversal 33O#73L-98,244,7/11/2021,wiranda johansen,Progressive,Closed,841689
+300,Transversal 04w#76s-94,200,3/17/2022,Chiara Parravicini,Steampunk,Closed,455866
+301,Transversal 81n#71n-99,317,6/16/2021,D3FA,Shoegaze,Open,606448
+302,Transversal 09O#06V-37,482,3/30/2022,D3FA,New Wave,Closed,146618
+303,Transversal 19O#99c-69,133,6/18/2021,D3FA,Steampunk,Closed,396852
+304,Transversal 61j#73P-20,229,11/11/2021,D3FA,Musique Concrète,Open,213728
+305,Transversal 22w#50g-28,116,4/20/2022,D3FA,Steampunk,Open,676522
+306,Transversal 89W#03E-29,5,5/3/2022,Chiara Parravicini,Steampunk,Open,30597
+307,Transversal 43c#39g-05,350,6/11/2021,wiranda johansen,Rock Punk,Closed,470766
+308,Transversal 14p#45Y-19,453,7/18/2021,D3FA,Shoegaze,Open,790909
+309,Career 10e#98T-09,11,2/23/2022,Lucia Tacchetti,Shoegaze,Open,692991
+310,Avenue 45G#38e-59,202,3/4/2022,Kiddo Toto,Steampunk,Open,891437
+311,Transversal 94h#20G-95,429,1/7/2022,Chiara Parravicini,Steampunk,Open,936835
+312,Transversal 19c#70V-78,159,4/23/2022,Lucia Tacchetti,Steampunk,Closed,18986
+313,Career 28w#45E-10,447,8/7/2021,wiranda johansen,Steampunk,Closed,559999
+314,Career 15c#51C-67,130,9/15/2021,Lucia Tacchetti,Rock Punk,Open,17605
+315,Career 16I#81w-28,422,3/15/2022,D3FA,Shoegaze,Open,264625
+316,Transversal 15M#41o-39,76,5/27/2021,Lucia Tacchetti,Rock Punk,Closed,703144
+317,Transversal 34v#12y-32,183,4/10/2022,Lucia Tacchetti,Steampunk,Closed,651969
+318,Avenue 54X#68s-98,489,12/27/2021,wiranda johansen,Rock Punk,Closed,346383
+319,Career 01s#30R-79,262,10/16/2021,Lucia Tacchetti,Steampunk,Closed,401459
+320,Career 35X#10C-67,330,1/10/2022,Lucia Tacchetti,Musique Concrète,Closed,649838
+321,Career 32c#66a-17,164,1/18/2022,D3FA,Steampunk,Closed,338774
+322,Avenue 13f#14J-42,53,3/23/2022,wiranda johansen,Steampunk,Open,183678
+323,Avenue Street 07q#69K-29,350,5/20/2022,Lucia Tacchetti,New Wave,Closed,542709
+324,Street 30G#96S-24,350,1/18/2022,D3FA,Steampunk,Open,401975
+325,Transversal 08U#84W-66,415,8/10/2021,Lucia Tacchetti,Shoegaze,Closed,954013
+326,Transversal 96y#12N-89,412,7/25/2021,D3FA,Rock Punk,Open,305152
+327,Transversal 40Q#58C-17,155,5/29/2021,D3FA,Shoegaze,Open,796575
+328,Transversal 95s#60a-53,367,9/26/2021,Lucia Tacchetti,Rock Punk,Closed,478933
+329,Transversal 24M#00N-12,190,4/3/2022,D3FA,Steampunk,Open,753043
+330,Career 27z#80Q-00,257,9/15/2021,D3FA,New Wave,Closed,922978
+331,Transversal 34b#19B-25,343,11/9/2021,D3FA,Shoegaze,Open,729366
+332,Street 97I#43L-71,300,8/24/2021,Lucia Tacchetti,Shoegaze,Open,794627
+333,Avenue Street 60t#10u-51,324,11/5/2021,Lucia Tacchetti,Steampunk,Open,61708
+334,Transversal 78l#13g-09,123,4/26/2022,D3FA,Shoegaze,Open,691404
+335,Transversal 07h#75S-59,10,10/6/2021,Lucia Tacchetti,Shoegaze,Closed,830007
+336,Transversal 82Q#46m-41,381,11/10/2021,wiranda johansen,Shoegaze,Open,561861
+337,Career 16Z#70f-77,500,2/4/2022,D3FA,Shoegaze,Closed,24034
+338,Transversal 50V#73k-18,209,8/13/2021,Lucia Tacchetti,Rock Punk,Closed,488441
+339,Avenue 25F#39s-55,177,12/15/2021,Lucia Tacchetti,Steampunk,Closed,579575
+340,Career 54l#68Y-32,334,12/22/2021,Lucia Tacchetti,Progressive,Open,909855
+341,Career 49Q#37N-56,76,12/30/2021,Lucia Tacchetti,Shoegaze,Open,858079
+342,Avenue 00p#60b-42,218,6/2/2021,wiranda johansen,Rock Punk,Open,333061
+343,Career 00P#87C-11,159,9/20/2021,D3FA,Progressive,Closed,494180
+344,Avenue 16x#21G-35,298,1/13/2022,D3FA,Steampunk,Closed,269041
+345,Transversal 57J#85U-36,84,2/24/2022,D3FA,Steampunk,Closed,516109
+346,Transversal 90M#95q-04,200,3/13/2022,Lucia Tacchetti,Steampunk,Open,910476
+347,Career 88y#34f-40,364,1/17/2022,Lucia Tacchetti,Steampunk,Closed,272764
+348,Transversal 24k#03y-15,295,7/7/2021,wiranda johansen,Shoegaze,Open,205689
+349,Transversal 18e#09M-69,173,9/12/2021,Lucia Tacchetti,Steampunk,Open,614664
+350,Transversal 24P#46W-45,240,6/8/2021,D3FA,New Wave,Closed,349636
+351,Career 60m#76g-41,255,10/13/2021,D3FA,Shoegaze,Closed,634575
+352,Transversal 42w#31o-41,444,12/14/2021,D3FA,Steampunk,Open,239174
+353,Career 97r#25X-50,136,7/1/2021,Lucia Tacchetti,Shoegaze,Closed,431587
+354,Transversal 16f#20g-90,388,8/22/2021,wiranda johansen,Steampunk,Open,764843
+355,Transversal 56w#42D-16,2,2/22/2022,D3FA,New Wave,Closed,273321
+356,Avenue Street 40G#14Y-15,461,2/11/2022,Lucia Tacchetti,New Wave,Closed,767773
+357,Career 00c#60N-30,487,11/13/2021,Lucia Tacchetti,Steampunk,Open,231667
+358,Transversal 42j#82c-51,36,7/5/2021,wiranda johansen,Shoegaze,Open,490614
+359,Career 94E#58E-40,201,2/25/2022,D3FA,Rock Punk,Open,749281
+360,Transversal 67U#86y-71,448,10/11/2021,D3FA,Steampunk,Closed,145129
+361,Transversal 79S#91U-21,230,1/5/2022,wiranda johansen,Shoegaze,Open,615929
+362,Transversal 25o#66J-62,389,6/22/2021,wiranda johansen,Steampunk,Open,377241
+363,Career 01s#30R-79,170,3/21/2022,D3FA,Rock Punk,Closed,910502
+364,Avenue 01L#16q-98,354,1/19/2022,D3FA,Steampunk,Closed,353371
+365,Career 51p#58N-39,42,6/13/2021,Lucia Tacchetti,Shoegaze,Open,850579
+366,Transversal 46H#94P-67,421,9/16/2021,Lucia Tacchetti,Rock Punk,Open,101334
+367,Transversal 84C#61H-54,32,5/3/2022,wiranda johansen,Steampunk,Open,19672
+368,Transversal 50y#69k-66,133,6/4/2021,wiranda johansen,Rock Punk,Open,488106
+369,Transversal 30e#99g-61,38,5/25/2021,D3FA,Steampunk,Open,685239
+370,Career 07t#05e-16,144,1/1/2022,D3FA,Shoegaze,Closed,235736
+371,Transversal 38K#83v-95,82,11/16/2021,wiranda johansen,Steampunk,Open,464090
+372,Transversal 94F#70B-13,313,11/25/2021,D3FA,New Wave,Closed,251336
+373,Transversal 70S#95h-12,22,7/14/2021,Lucia Tacchetti,Rock Punk,Closed,906348
+374,Transversal 35O#47t-95,277,4/15/2022,D3FA,Progressive,Closed,325576
+375,Transversal 82j#79k-76,189,2/25/2022,Lucia Tacchetti,Steampunk,Closed,631593
+376,Career 73P#95b-07,460,4/27/2022,D3FA,Rock Punk,Open,929831
+377,Avenue 42J#40e-93,223,3/14/2022,D3FA,Steampunk,Open,946357
+378,Transversal 86e#00K-64,364,9/10/2021,wiranda johansen,Shoegaze,Open,455488
+379,Transversal 84u#99z-54,426,5/9/2022,Lucia Tacchetti,Steampunk,Closed,908746
+380,Avenue Street 31P#35w-78,200,11/1/2021,D3FA,Shoegaze,Closed,438408
+381,Street 02q#90o-88,129,10/18/2021,Lucia Tacchetti,Musique Concrète,Closed,311255
+382,Transversal 08c#99Z-70,215,12/16/2021,wiranda johansen,Progressive,Closed,749486
+383,Career 24r#62j-99,53,12/23/2021,wiranda johansen,Steampunk,Closed,363832
+384,Transversal 73R#04A-54,189,9/4/2021,D3FA,Steampunk,Open,253332
+385,Transversal 55c#06y-18,48,11/24/2021,Lucia Tacchetti,Rock Punk,Open,598776
+386,Career 17p#30o-24,202,2/8/2022,Lucia Tacchetti,Rock Punk,Open,230188
+387,Street 55r#15f-96,284,3/25/2022,D3FA,Steampunk,Closed,315730
+388,Transversal 69C#91K-37,377,1/29/2022,D3FA,Progressive,Closed,828522
+389,Transversal 70T#18H-83,423,6/12/2021,D3FA,Steampunk,Closed,490602
+390,Transversal 33o#48D-47,235,8/29/2021,D3FA,Shoegaze,Closed,709692
+391,Transversal 16E#45S-40,375,6/5/2021,Ghetto Kids,Steampunk,Open,632483
+392,Avenue Street 04I#11K-07,149,10/12/2021,Chiara Parravicini,Steampunk,Closed,803148
+393,Transversal 40U#41I-61,154,5/21/2021,D3FA,Steampunk,Open,30784
+394,Transversal 81y#29c-73,198,8/26/2021,D3FA,Steampunk,Open,897890
+395,Transversal 03e#50F-30,358,2/10/2022,Lucia Tacchetti,Steampunk,Open,440561
+396,Career 94o#84G-96,27,1/16/2022,D3FA,Rock Punk,Open,435719
+397,Transversal 63i#77Y-84,463,5/15/2022,D3FA,Steampunk,Closed,1378
+398,Transversal 48u#72L-15,67,11/5/2021,Lucia Tacchetti,Shoegaze,Closed,28471
+399,Transversal 24r#79r-87,191,12/22/2021,Lucia Tacchetti,Steampunk,Open,914370
+400,Transversal 91A#44A-81,461,6/2/2021,wiranda johansen,Rock Punk,Closed,294528
+401,Transversal 42w#31o-41,113,1/21/2022,wiranda johansen,Shoegaze,Closed,727547
+402,Career 04i#97d-14,126,4/11/2022,D3FA,Shoegaze,Closed,813712
+403,Transversal 38Y#58M-76,199,2/26/2022,D3FA,Steampunk,Open,565265
+404,Transversal 46j#97O-29,496,2/5/2022,D3FA,Steampunk,Open,220887
+405,Career 29v#79p-86,244,7/22/2021,wiranda johansen,Shoegaze,Open,351836
+406,Avenue 14r#30C-28,35,7/31/2021,Lucia Tacchetti,Shoegaze,Open,520335
+407,Avenue 76f#81d-97,272,9/4/2021,D3FA,Steampunk,Closed,266048
+408,Avenue Street 80Q#54m-92,27,8/23/2021,D3FA,Steampunk,Closed,9897
+409,Transversal 56C#13P-59,59,2/5/2022,wiranda johansen,Rock Punk,Open,513583
+410,Transversal 27i#41Y-63,388,10/7/2021,D3FA,Steampunk,Open,459557
+411,Transversal 46R#36X-37,24,5/6/2022,D3FA,Steampunk,Open,428461
+412,Transversal 60v#25b-34,279,2/24/2022,D3FA,Shoegaze,Closed,240781
+413,Transversal 23J#44R-96,289,10/30/2021,Chiara Parravicini,Shoegaze,Closed,477363
+414,Transversal 58S#40k-86,176,6/21/2021,D3FA,Rock Punk,Closed,839668
+415,Avenue 34g#55o-23,215,10/17/2021,D3FA,Steampunk,Closed,12164
+416,Transversal 83w#59m-51,458,1/31/2022,D3FA,Shoegaze,Open,132609
+417,Career 39F#99i-80,274,6/10/2021,D3FA,Steampunk,Open,971880
+418,Transversal 68E#77J-11,55,6/24/2021,D3FA,New Wave,Open,591881
+419,Career 48y#33Z-56,478,8/25/2021,D3FA,Shoegaze,Closed,360127
+420,Career 25D#12b-00,326,1/2/2022,D3FA,Shoegaze,Closed,494796
+421,Career 37j#37F-82,173,2/12/2022,D3FA,Shoegaze,Closed,894829
+422,Transversal 11B#31J-56,485,9/24/2021,Molok0,New Wave,Open,363996
+423,Transversal 67N#38z-52,313,7/11/2021,Lucia Tacchetti,Shoegaze,Open,56409
+424,Career 68M#60I-39,45,3/24/2022,Lucia Tacchetti,Steampunk,Open,584845
+425,Career 44S#29a-95,357,7/9/2021,D3FA,Shoegaze,Closed,410615
+426,Transversal 31F#36G-49,269,12/20/2021,D3FA,Progressive,Open,335188
+427,Career 16Z#70f-77,483,4/21/2022,D3FA,Steampunk,Closed,218042
+428,Transversal 62o#53A-65,410,12/16/2021,D3FA,Steampunk,Closed,648085
+429,Transversal 76u#20x-27,423,12/30/2021,D3FA,Steampunk,Closed,340464
+430,Transversal 25q#04V-61,272,6/6/2021,D3FA,Shoegaze,Closed,192536
+431,Street 80d#82t-12,419,10/1/2021,Chiara Parravicini,Steampunk,Closed,923933
+432,Transversal 47Z#04j-79,390,7/8/2021,Lucia Tacchetti,Steampunk,Open,460261
+433,Career 74z#84f-70,180,12/28/2021,D3FA,Steampunk,Open,593020
+434,Transversal 05L#57l-55,429,1/20/2022,Chiara Parravicini,Steampunk,Closed,285173
+435,Transversal 28t#42g-18,135,12/27/2021,D3FA,Shoegaze,Closed,300254
+436,Transversal 34M#81v-23,374,10/7/2021,Lucia Tacchetti,Progressive,Open,230278
+437,Career 65D#57H-76,484,8/23/2021,D3FA,Steampunk,Open,240072
+438,Transversal 61v#44X-26,328,5/20/2022,D3FA,Steampunk,Open,574354
+439,Transversal 30r#18R-49,340,1/28/2022,wiranda johansen,Shoegaze,Open,255077
+440,Career 06L#25y-84,89,10/26/2021,Lucia Tacchetti,Rock Punk,Open,440754
+441,Avenue Street 92k#98p-41,29,10/22/2021,D3FA,Rock Punk,Open,855225
+442,Transversal 62O#87r-33,288,4/28/2022,wiranda johansen,Steampunk,Closed,345817
+443,Career 52a#17n-13,41,2/10/2022,Chiara Parravicini,Shoegaze,Closed,698003
+444,Transversal 73F#21J-08,179,8/28/2021,wiranda johansen,Shoegaze,Closed,166461
+445,Street 84c#01l-78,149,2/14/2022,D3FA,Lo fi,Open,535704
+446,Career 52T#21P-95,90,2/19/2022,Lucia Tacchetti,Shoegaze,Open,960723
+447,Transversal 45C#70D-91,456,9/11/2021,D3FA,Steampunk,Closed,832192
+448,Transversal 11O#93k-11,261,9/10/2021,D3FA,Shoegaze,Closed,971044
+449,Avenue 45Y#76C-13,14,7/21/2021,D3FA,Shoegaze,Closed,637974
+450,Avenue Street 68h#26O-08,457,12/9/2021,Lucia Tacchetti,Musique Concrète,Open,233742
+451,Transversal 39d#81x-85,377,10/11/2021,Chiara Parravicini,Steampunk,Closed,38190
+452,Career 94b#00w-83,400,3/16/2022,Lucia Tacchetti,Shoegaze,Open,460976
+453,Transversal 42u#06p-81,334,6/2/2021,Lucia Tacchetti,Rock Punk,Open,7278
+454,Transversal 29e#90J-35,65,6/22/2021,Chiara Parravicini,Steampunk,Closed,44748
+455,Transversal 60W#08M-78,129,9/5/2021,Lucia Tacchetti,Steampunk,Closed,332547
+456,Avenue Street 90l#94i-25,322,1/20/2022,Chiara Parravicini,Steampunk,Closed,912096
+457,Career 96P#12T-65,4,8/1/2021,Chiara Parravicini,Steampunk,Closed,138600
+458,Transversal 66p#95s-40,467,4/11/2022,D3FA,Steampunk,Closed,7739
+459,Transversal 16A#32d-82,447,11/18/2021,Lucia Tacchetti,Rock Punk,Open,58418
+460,Street 02q#90o-88,256,1/26/2022,D3FA,Rock Punk,Open,622580
+461,Career 52f#29C-24,291,9/2/2021,Lucia Tacchetti,Steampunk,Open,904247
+462,Career 15C#26y-18,426,8/22/2021,D3FA,Steampunk,Closed,45283
+463,Avenue Street 33u#44F-10,137,10/4/2021,Lucia Tacchetti,Steampunk,Closed,433866
+464,Transversal 99V#56C-21,257,4/24/2022,D3FA,Progressive,Closed,460806
+465,Transversal 25q#04V-61,214,10/26/2021,D3FA,Steampunk,Closed,522857
+466,Career 93S#17Q-28,326,5/13/2022,D3FA,Shoegaze,Open,112060
+467,Career 86b#70m-20,234,1/2/2022,wiranda johansen,Steampunk,Closed,976020
+468,Transversal 33o#48D-47,219,11/24/2021,D3FA,Shoegaze,Closed,373648
+469,Street 54G#38O-26,231,3/28/2022,Lucia Tacchetti,Steampunk,Open,115568
+470,Transversal 86b#25i-03,404,12/19/2021,Lucia Tacchetti,Steampunk,Open,684141
+471,Career 11x#98p-63,329,6/11/2021,D3FA,Steampunk,Open,625634
+472,Career 43x#79y-20,99,12/18/2021,Chiara Parravicini,Steampunk,Closed,262689
+473,Career 46H#88x-45,232,6/13/2021,Lucia Tacchetti,Steampunk,Closed,68442
+474,Career 96E#02o-89,279,9/1/2021,Molok0,Shoegaze,Closed,27296
+475,Transversal 05t#45a-45,323,2/9/2022,D3FA,Shoegaze,Closed,975385
+476,Transversal 92k#22F-60,460,9/14/2021,Lucia Tacchetti,Rock Punk,Closed,259135
+477,Transversal 91K#74I-34,166,10/24/2021,D3FA,Shoegaze,Closed,314023
+478,Transversal 90m#57Q-44,401,3/29/2022,D3FA,Shoegaze,Open,595094
+479,Transversal 82g#86l-25,342,11/28/2021,Lucia Tacchetti,Lo fi,Open,343695
+480,Avenue 45G#38e-59,68,6/11/2021,Lucia Tacchetti,Rock Punk,Closed,213272
+481,Transversal 51o#41l-11,94,3/19/2022,D3FA,Steampunk,Closed,622434
+482,Transversal 45C#70D-91,447,3/23/2022,Lucia Tacchetti,Steampunk,Open,611481
+483,Transversal 26L#21c-06,270,8/12/2021,D3FA,Shoegaze,Closed,435221
+484,Street 14q#77a-01,65,2/13/2022,D3FA,Lo fi,Open,300457
+485,Transversal 93b#50V-95,58,12/12/2021,Chiara Parravicini,Shoegaze,Closed,918584
+486,Career 39W#28L-08,62,9/16/2021,Lucia Tacchetti,Steampunk,Closed,813157
+487,Avenue 27S#00P-59,43,11/7/2021,Girl Ultra,Steampunk,Open,889929
+488,Transversal 15v#04e-29,334,10/19/2021,Lucia Tacchetti,Rock Punk,Open,69203
+489,Transversal 09N#79o-16,105,6/9/2021,Lucia Tacchetti,Steampunk,Open,111314
+490,Career 87K#42X-93,453,11/15/2021,Lucia Tacchetti,Progressive,Open,511100
+491,Transversal 90a#43q-83,71,2/14/2022,Lucia Tacchetti,Rock Punk,Closed,100658
+492,Transversal 34Q#82a-58,466,4/27/2022,Lucia Tacchetti,Steampunk,Closed,371498
+493,Avenue Street 17o#06b-57,61,1/5/2022,D3FA,Steampunk,Open,836350
+494,Career 68M#60I-39,179,8/18/2021,Chiara Parravicini,Steampunk,Open,219540
+495,Avenue Street 57h#45P-81,160,7/22/2021,D3FA,New Wave,Closed,407374
+496,Transversal 69Q#44h-09,261,8/28/2021,D3FA,Rock Punk,Open,878908
+497,Transversal 26Y#82Q-06,83,3/9/2022,D3FA,Shoegaze,Closed,53476
+498,Career 80O#09s-36,326,2/14/2022,Lucia Tacchetti,Steampunk,Closed,538843
+499,Transversal 38c#56v-34,467,4/12/2022,D3FA,Steampunk,Open,974395
+500,Transversal 46A#29z-26,266,3/25/2022,Lucia Tacchetti,Steampunk,Closed,127733
+501,Transversal 39c#15P-59,60,12/8/2021,D3FA,Shoegaze,Open,471451
+502,Transversal 35L#36a-37,100,8/18/2021,wiranda johansen,Steampunk,Closed,199565
+503,Transversal 35j#27S-24,98,6/11/2021,Burrito Kachimba ,Rock Punk,Open,584547
+504,Avenue Street 06o#43g-84,32,1/1/2022,D3FA,Steampunk,Closed,244688
+505,Transversal 22T#00w-88,59,3/23/2022,D3FA,Steampunk,Open,698102
+506,Career 86k#97k-50,111,2/23/2022,D3FA,Rock Punk,Open,648209
+507,Transversal 33O#73L-98,464,7/21/2021,D3FA,Shoegaze,Open,40259
+508,Transversal 99o#18C-12,306,2/26/2022,D3FA,Steampunk,Open,750148
+509,Transversal 64C#57e-69,21,4/13/2022,Lucia Tacchetti,Steampunk,Closed,939486
+510,Transversal 63q#24P-05,407,11/21/2021,Chiara Parravicini,Progressive,Open,230423
+511,Street 60H#69D-76,149,4/19/2022,Lucia Tacchetti,Steampunk,Open,970170
+512,Transversal 38c#56v-34,87,9/26/2021,D3FA,Rock Punk,Closed,216758
+513,Transversal 66r#09l-43,23,1/8/2022,Lucia Tacchetti,Shoegaze,Closed,588782
+514,Street 23Z#98Z-47,85,4/3/2022,wiranda johansen,Steampunk,Closed,737869
+515,Avenue 08R#73V-15,172,8/3/2021,Lucia Tacchetti,Steampunk,Open,899851
+516,Transversal 54A#44K-47,264,1/14/2022,D3FA,Shoegaze,Open,486372
+517,Career 65P#83F-27,40,10/9/2021,D3FA,Steampunk,Open,764699
+518,Career 82u#19r-45,396,5/9/2022,Girl Ultra,Rock Punk,Open,122144
+519,Career 34c#20s-10,245,9/3/2021,wiranda johansen,Steampunk,Closed,853604
+520,Transversal 08U#84W-66,289,8/22/2021,D3FA,Rock Punk,Open,269292
+521,Transversal 39D#45F-99,145,8/17/2021,D3FA,Steampunk,Open,896064
+522,Transversal 50V#73k-18,114,1/22/2022,D3FA,Lo fi,Open,928297
+523,Transversal 54a#89Y-76,93,9/22/2021,D3FA,Shoegaze,Closed,256526
+524,Avenue Street 19f#07P-60,499,3/12/2022,D3FA,Progressive,Open,285187
+525,Transversal 75k#21H-06,148,8/4/2021,D3FA,Steampunk,Open,98125
+526,Transversal 55c#06y-18,25,11/30/2021,Lucia Tacchetti,Rock Punk,Open,867212
+527,Avenue Street 24a#66G-13,56,2/20/2022,Molok0,Steampunk,Open,904130
+528,Avenue Street 26v#64K-36,225,6/5/2021,D3FA,Steampunk,Open,43343
+529,Transversal 87g#04a-15,422,12/2/2021,wiranda johansen,Steampunk,Open,199197
+530,Avenue 04H#77Y-72,497,1/21/2022,wiranda johansen,Steampunk,Closed,91434
+531,Career 19O#00H-81,276,10/29/2021,Lucia Tacchetti,Shoegaze,Open,75093
+532,Avenue 54X#68s-98,152,6/19/2021,D3FA,Steampunk,Closed,289349
+533,Career 50U#78o-52,316,8/5/2021,Chiara Parravicini,Steampunk,Closed,616404
+534,Career 23e#68N-46,431,2/2/2022,wiranda johansen,Steampunk,Open,616409
+535,Transversal 23j#43H-32,159,6/17/2021,D3FA,Steampunk,Closed,669588
+536,Avenue 07b#61y-24,125,3/6/2022,D3FA,Shoegaze,Closed,268589
+537,Career 77h#46N-29,445,5/29/2021,D3FA,Shoegaze,Closed,178168
+538,Avenue 35W#66B-56,349,3/27/2022,D3FA,Musique Concrète,Closed,217299
+539,Transversal 37Z#25n-47,248,7/16/2021,wiranda johansen,New Wave,Open,377923
+540,Transversal 99t#60H-00,486,10/13/2021,D3FA,Shoegaze,Closed,891894
+541,Transversal 20U#34c-82,103,9/2/2021,wiranda johansen,Steampunk,Closed,829671
+542,Career 77W#30K-09,44,12/25/2021,Lucia Tacchetti,Steampunk,Open,12374
+543,Career 22W#83g-72,378,3/30/2022,D3FA,Steampunk,Closed,370770
+544,Avenue 43Y#95B-31,208,2/16/2022,Girl Ultra,Rock Punk,Closed,638304
+545,Street 02a#44a-37,14,3/11/2022,Lucia Tacchetti,Steampunk,Open,750693
+546,Transversal 38q#97W-22,140,9/28/2021,Lucia Tacchetti,Progressive,Closed,760949
+547,Transversal 84R#92g-48,496,12/12/2021,Lucia Tacchetti,Steampunk,Closed,686808
+548,Career 78L#29c-35,250,10/26/2021,D3FA,Shoegaze,Open,909808
+549,Career 86T#14V-59,233,8/11/2021,Lucia Tacchetti,Steampunk,Closed,548303
+550,Avenue Street 78h#50r-66,483,1/1/2022,Lucia Tacchetti,Steampunk,Closed,925877
+551,Transversal 93l#37F-89,83,7/5/2021,Lucia Tacchetti,Rock Punk,Open,693440
+552,Career 80z#74E-79,91,8/22/2021,Lucia Tacchetti,Steampunk,Closed,480197
+553,Street 40H#10g-15,449,1/31/2022,D3FA,Steampunk,Open,838828
+554,Transversal 16E#45S-40,330,12/31/2021,D3FA,Steampunk,Closed,580481
+555,Transversal 55c#33C-65,433,10/19/2021,Lucia Tacchetti,Steampunk,Closed,228545
+556,Transversal 63m#57W-88,176,10/12/2021,Chiara Parravicini,Shoegaze,Open,410297
+557,Transversal 17j#95F-95,129,1/17/2022,D3FA,Steampunk,Closed,878681
+558,Career 67I#95T-54,425,1/10/2022,D3FA,Lo fi,Closed,379085
+559,Transversal 79M#71c-71,500,5/11/2022,Lucia Tacchetti,Steampunk,Closed,822296
+560,Career 19m#40q-43,110,12/5/2021,D3FA,Shoegaze,Open,363926
+561,Career 27h#99f-60,147,9/3/2021,Lucia Tacchetti,Steampunk,Closed,291897
+562,Career 01C#62p-41,105,4/21/2022,Molok0,Steampunk,Closed,109960
+563,Career 19F#64T-13,350,8/20/2021,D3FA,Rock Punk,Closed,775063
+564,Transversal 35j#27S-24,277,6/19/2021,wiranda johansen,Steampunk,Open,760957
+565,Transversal 24Q#37Z-68,352,11/26/2021,Molok0,Steampunk,Open,855519
+566,Avenue Street 29L#02R-61,108,1/7/2022,wiranda johansen,Steampunk,Open,99673
+567,Career 78N#38v-73,465,11/25/2021,D3FA,Steampunk,Closed,159760
+568,Career 51c#82h-48,365,4/1/2022,D3FA,Steampunk,Closed,216837
+569,Avenue 32U#10G-42,396,10/23/2021,D3FA,Steampunk,Closed,726009
+570,Career 87b#50i-93,461,7/18/2021,Lucia Tacchetti,Steampunk,Closed,65149
+571,Career 91Z#20O-34,379,12/19/2021,D3FA,Steampunk,Open,285643
+572,Career 56J#86K-13,200,6/15/2021,Molok0,Musique Concrète,Open,839692
+573,Avenue 49c#99R-30,58,5/18/2022,D3FA,Shoegaze,Closed,647389
+574,Transversal 75t#68t-60,104,1/15/2022,wiranda johansen,Steampunk,Open,990870
+575,Transversal 83j#42K-65,469,1/5/2022,D3FA,Steampunk,Open,693048
+576,Avenue 11w#75b-78,83,10/16/2021,D3FA,Steampunk,Open,239764
+577,Street 22U#90r-59,373,3/17/2022,Girl Ultra,Steampunk,Closed,670869
+578,Avenue 83R#76w-53,342,12/22/2021,D3FA,Steampunk,Closed,228359
+579,Avenue Street 81p#95a-33,284,11/15/2021,Lucia Tacchetti,Shoegaze,Closed,333476
+580,Career 11q#79R-16,353,12/2/2021,D3FA,Shoegaze,Closed,66086
+581,Transversal 30b#54Y-67,374,10/9/2021,D3FA,Steampunk,Closed,903411
+582,Transversal 27E#78B-06,17,10/2/2021,Girl Ultra,Shoegaze,Open,586174
+583,Transversal 54V#49o-49,346,2/13/2022,D3FA,Steampunk,Closed,426542
+584,Transversal 15v#04e-29,368,3/20/2022,Lucia Tacchetti,Steampunk,Open,894216
+585,Transversal 65U#80Y-24,341,8/15/2021,Lucia Tacchetti,Steampunk,Open,348360
+586,Transversal 46l#85i-88,452,6/5/2021,Lucia Tacchetti,Steampunk,Closed,985934
+587,Avenue 03D#33c-82,435,5/2/2022,D3FA,Rock Punk,Closed,352192
+588,Career 26I#62B-46,179,11/11/2021,Lucia Tacchetti,Rock Punk,Open,818680
+589,Transversal 95b#66k-06,392,8/5/2021,D3FA,Rock Punk,Closed,138808
+590,Transversal 26C#19w-27,53,5/2/2022,Lucia Tacchetti,Steampunk,Open,15523
+591,Transversal 39Z#02Q-39,326,8/18/2021,Molok0,Progressive,Open,804422
+592,Transversal 04O#47t-34,139,1/10/2022,D3FA,Steampunk,Closed,497771
+593,Transversal 08V#18b-85,7,12/22/2021,Lucia Tacchetti,Progressive,Closed,188116
+594,Transversal 77u#76R-30,29,5/30/2021,Chiara Parravicini,Steampunk,Open,517697
+595,Career 16Q#73T-33,361,12/10/2021,D3FA,Rock,Closed,491848
+596,Avenue 16C#03a-50,115,10/12/2021,wiranda johansen,Steampunk,Closed,800865
+597,Transversal 15M#41o-39,291,11/12/2021,Lucia Tacchetti,Shoegaze,Open,655103
+598,Transversal 57s#49S-60,95,6/3/2021,Lucia Tacchetti,Progressive,Closed,732089
+599,Transversal 21f#12d-90,143,7/18/2021,D3FA,Rock Punk,Open,413080
+600,Street 99j#42O-18,296,11/19/2021,D3FA,Steampunk,Closed,125758
+601,Transversal 15N#53d-20,177,3/9/2022,Lucia Tacchetti,Steampunk,Open,693440
+602,Career 15f#32D-73,27,12/13/2021,D3FA,Steampunk,Closed,480197
+603,Transversal 19c#70V-78,86,8/4/2021,wiranda johansen,Progressive,Closed,838828
+604,Transversal 52X#06F-04,315,4/23/2022,Lucia Tacchetti,Steampunk,Closed,580481
+605,Avenue 94X#07F-06,480,10/23/2021,wiranda johansen,Shoegaze,Open,228545
+606,Career 94Z#68E-70,412,6/3/2021,wiranda johansen,Rock Punk,Closed,410297
+607,Transversal 97z#98M-02,136,2/11/2022,wiranda johansen,Steampunk,Closed,878681
+608,Transversal 75X#69M-78,249,10/7/2021,Lucia Tacchetti,Shoegaze,Closed,379085
+609,Avenue 32U#10G-42,44,11/29/2021,D3FA,Steampunk,Open,822296
+610,Career 76w#11p-81,172,4/8/2022,Lucia Tacchetti,Shoegaze,Open,363926
+611,Transversal 87Q#76J-75,325,4/20/2022,D3FA,Steampunk,Open,291897
+612,Street 82V#74B-30,207,6/5/2021,wiranda johansen,Shoegaze,Closed,109960
+613,Avenue 22N#02t-36,37,2/21/2022,Chiara Parravicini,Rock Punk,Closed,775063
+614,Transversal 57A#14t-86,92,8/6/2021,Lucia Tacchetti,Steampunk,Open,760957
+615,Avenue Street 38v#65n-78,18,1/4/2022,D3FA,Shoegaze,Open,855519
+616,Avenue 83R#76w-53,422,8/16/2021,D3FA,Steampunk,Open,99673
+617,Transversal 26g#03h-36,325,6/3/2021,Lucia Tacchetti,Steampunk,Closed,159760
+618,Avenue Street 90l#94i-25,248,2/1/2022,Lucia Tacchetti,Progressive,Open,216837
+619,Avenue 50V#57F-83,366,1/24/2022,D3FA,Shoegaze,Closed,726009
+620,Transversal 93V#74b-33,397,8/14/2021,D3FA,Steampunk,Open,65149
+621,Transversal 34v#12y-32,266,1/5/2022,Lucia Tacchetti,Steampunk,Closed,285643
+622,Avenue 42J#40e-93,413,7/2/2021,D3FA,Shoegaze,Open,839692
+623,Transversal 57s#49S-60,403,10/23/2021,D3FA,Steampunk,Open,647389
+624,Transversal 89W#03E-29,60,4/14/2022,Lucia Tacchetti,Steampunk,Open,990870
+625,Transversal 81y#29c-73,251,11/6/2021,Molok0,Shoegaze,Closed,693048
+626,Career 86L#58G-91,23,12/18/2021,D3FA,Shoegaze,Open,239764
+627,Avenue Street 99j#18x-67,227,11/22/2021,Lucia Tacchetti,Shoegaze,Open,670869
+628,Transversal 33O#73L-98,139,2/26/2022,Lucia Tacchetti,Steampunk,Open,228359
+629,Career 44d#19c-63,458,11/4/2021,D3FA,Steampunk,Open,333476
+630,Career 51d#35d-74,432,10/27/2021,Lucia Tacchetti,Steampunk,Open,66086
+631,Avenue Street 75p#37S-27,243,4/6/2022,Molok0,Steampunk,Closed,903411
+632,Transversal 11B#31J-56,242,9/9/2021,D3FA,Lo fi,Open,586174
+633,Transversal 09W#35n-72,309,12/9/2021,wiranda johansen,Steampunk,Closed,426542
+634,Transversal 62O#24A-38,384,4/14/2022,wiranda johansen,Steampunk,Open,894216
+635,Career 91Z#20O-34,186,7/12/2021,wiranda johansen,Steampunk,Open,348360
+636,Avenue 75N#76v-04,351,8/11/2021,Lucia Tacchetti,Shoegaze,Open,985934
+637,Transversal 98s#71H-62,181,2/26/2022,D3FA,Steampunk,Closed,352192
+638,Career 75t#63o-17,500,4/8/2022,Lucia Tacchetti,Steampunk,Closed,818680
+639,Career 49I#33F-07,86,2/15/2022,Lucia Tacchetti,Steampunk,Open,138808
+640,Transversal 61m#19g-54,376,12/5/2021,Lucia Tacchetti,Steampunk,Closed,15523
+641,Career 17p#30o-24,458,11/30/2021,Chiara Parravicini,Steampunk,Open,804422
+642,Avenue 06B#55R-83,216,10/27/2021,Lucia Tacchetti,Rock Punk,Closed,497771
+643,Transversal 83j#42K-65,497,6/13/2021,Ghetto Kids,Shoegaze,Closed,188116
+644,Transversal 90d#61l-35,468,10/4/2021,Lucia Tacchetti,Steampunk,Closed,517697
+645,Career 11q#79R-16,76,10/17/2021,Molok0,Steampunk,Closed,491848
+646,Career 95l#20x-58,373,1/3/2022,D3FA,Steampunk,Closed,800865
+647,Transversal 27Y#28Z-96,184,2/26/2022,D3FA,Rock Punk,Open,655103
+648,Career 75L#04q-81,413,11/6/2021,Chiara Parravicini,Steampunk,Closed,732089
+649,Avenue 97R#91d-37,318,11/13/2021,Lucia Tacchetti,Steampunk,Open,413080
+650,Career 22W#83g-72,44,4/11/2022,Lucia Tacchetti,Progressive,Open,125758
+651,Transversal 90d#61l-35,273,10/19/2021,wiranda johansen,Steampunk,Closed,693440
+652,Transversal 22S#25t-24,437,1/7/2022,Lucia Tacchetti,Steampunk,Closed,480197
+653,Avenue 56a#87j-02,131,8/10/2021,wiranda johansen,Steampunk,Open,838828
+654,Transversal 15v#04e-29,305,8/10/2021,Lucia Tacchetti,Shoegaze,Open,580481
+655,Career 42C#70K-69,472,11/11/2021,D3FA,Rock Punk,Open,228545
+656,Avenue 32U#10G-42,279,3/22/2022,Lucia Tacchetti,Shoegaze,Closed,410297
+657,Transversal 28J#15H-99,305,11/14/2021,D3FA,Steampunk,Closed,878681
+658,Career 96W#34S-93,409,6/24/2021,Lucia Tacchetti,Steampunk,Open,379085
+659,Career 07b#86Q-44,108,4/30/2022,wiranda johansen,Shoegaze,Closed,822296
+660,Career 85J#29Q-50,226,9/21/2021,Molok0,Steampunk,Open,363926
+661,Avenue Street 39q#46g-45,368,8/12/2021,Ghetto Kids,Steampunk,Closed,291897
+662,Transversal 59U#92d-70,345,2/24/2022,D3FA,Steampunk,Closed,109960
+663,Career 00P#87C-11,66,4/12/2022,D3FA,New Wave,Closed,775063
+664,Avenue 23A#56V-78,130,5/26/2021,Lucia Tacchetti,Steampunk,Closed,760957
+665,Transversal 84J#60M-36,267,5/27/2021,wiranda johansen,Steampunk,Closed,855519
+666,Career 36H#04I-31,480,1/5/2022,wiranda johansen,Shoegaze,Closed,99673
+667,Career 31o#22G-07,116,3/8/2022,Molok0,Steampunk,Closed,159760
+668,Transversal 45C#70D-91,113,6/25/2021,Chiara Parravicini,Shoegaze,Open,216837
+669,Transversal 06C#85e-70,294,1/11/2022,wiranda johansen,Shoegaze,Open,726009
+670,Transversal 42u#06p-81,209,2/7/2022,D3FA,Steampunk,Open,65149
+671,Avenue Street 50w#47v-22,138,4/16/2022,Lucia Tacchetti,Steampunk,Open,285643
+672,Career 78L#29c-35,122,3/20/2022,Lucia Tacchetti,Rock Punk,Closed,839692
+673,Career 87a#28E-93,354,4/6/2022,D3FA,Rock Punk,Open,647389
+674,Street 23n#06p-13,109,1/9/2022,wiranda johansen,Steampunk,Open,990870
+675,Transversal 20S#67J-54,337,6/8/2021,wiranda johansen,Rock Punk,Closed,693048
+676,Career 51d#35d-74,375,1/21/2022,D3FA,Steampunk,Closed,239764
+677,Transversal 62O#24A-38,477,1/15/2022,Lucia Tacchetti,Steampunk,Open,670869
+678,Career 20X#52S-81,339,5/9/2022,D3FA,Shoegaze,Closed,228359
+679,Transversal 12Q#24R-37,93,9/15/2021,Lucia Tacchetti,Steampunk,Open,333476
+680,Avenue 68M#40G-05,491,1/10/2022,D3FA,Steampunk,Closed,66086
+681,Transversal 31H#86X-17,216,10/3/2021,D3FA,Steampunk,Open,903411
+682,Career 49F#23f-81,279,1/23/2022,D3FA,Steampunk,Open,586174
+683,Avenue 48W#88I-77,468,3/21/2022,D3FA,Steampunk,Open,426542
+684,Transversal 48k#24C-15,177,3/9/2022,D3FA,New Wave,Open,894216
+685,Transversal 87A#13H-34,83,2/2/2022,D3FA,Steampunk,Closed,348360
+686,Transversal 22Q#48f-76,50,8/5/2021,Lucia Tacchetti,Steampunk,Closed,985934
+687,Career 68M#60I-39,14,10/17/2021,Lucia Tacchetti,Shoegaze,Closed,352192
+688,Avenue 34g#55o-23,358,6/17/2021,wiranda johansen,Steampunk,Closed,818680
+689,Avenue Street 78h#50r-66,286,7/6/2021,D3FA,Progressive,Closed,138808
+690,Transversal 61o#49L-93,404,2/7/2022,D3FA,Steampunk,Closed,15523
+691,Transversal 61j#73P-20,388,3/27/2022,Lucia Tacchetti,Shoegaze,Open,804422
+692,Career 60m#76g-41,404,9/22/2021,Lucia Tacchetti,Steampunk,Open,497771
+693,Transversal 23R#13e-96,225,6/13/2021,Lucia Tacchetti,Steampunk,Closed,188116
+694,Street 23f#29X-38,228,1/6/2022,D3FA,Progressive,Closed,517697
+695,Transversal 62V#42x-89,428,6/3/2021,D3FA,Rock Punk,Closed,491848
+696,Career 29F#42k-17,290,1/13/2022,Burrito Kachimba ,Rock Punk,Closed,800865
+697,Career 27h#99f-60,469,2/21/2022,Lucia Tacchetti,Shoegaze,Closed,655103
+698,Career 94E#58E-40,161,12/19/2021,D3FA,Steampunk,Closed,732089
+699,Career 77h#46N-29,104,8/18/2021,Chiara Parravicini,Rock Punk,Closed,413080
+700,Transversal 02s#82u-05,462,12/11/2021,Lucia Tacchetti,Steampunk,Closed,125758
+701,Avenue Street 69c#16K-81,267,2/14/2022,D3FA,New Wave,Open,693440
+702,Career 52a#17n-13,349,10/5/2021,Lucia Tacchetti,Steampunk,Open,480197
+703,Transversal 70T#18H-83,471,12/5/2021,D3FA,Shoegaze,Closed,838828
+704,Career 75t#63o-17,394,7/10/2021,Molok0,Steampunk,Closed,580481
+705,Transversal 16x#59t-33,149,5/12/2022,D3FA,Steampunk,Closed,228545
+706,Career 31o#22G-07,14,9/11/2021,wiranda johansen,Rock Punk,Closed,410297
+707,Transversal 82g#86l-25,330,5/2/2022,D3FA,Steampunk,Open,878681
+708,Avenue 66G#01F-43,31,10/2/2021,D3FA,Shoegaze,Open,379085
+709,Transversal 30z#28e-12,356,4/12/2022,D3FA,Shoegaze,Closed,822296
+710,Transversal 88D#29Q-04,430,4/28/2022,D3FA,Steampunk,Open,363926
+711,Career 30Z#44e-07,220,1/18/2022,Lucia Tacchetti,Steampunk,Open,291897
+712,Transversal 59O#62r-64,330,6/27/2021,wiranda johansen,Steampunk,Closed,109960
+713,Career 96W#34S-93,133,4/23/2022,wiranda johansen,Steampunk,Open,775063
+714,Career 23e#68N-46,5,6/12/2021,Lucia Tacchetti,Steampunk,Open,760957
+715,Transversal 24G#47c-40,469,2/15/2022,D3FA,Shoegaze,Closed,855519
+716,Transversal 60W#08M-78,285,10/13/2021,Chiara Parravicini,Steampunk,Closed,99673
+717,Transversal 57w#54q-42,252,10/10/2021,Chiara Parravicini,New Wave,Open,159760
+718,Transversal 54V#49o-49,349,12/16/2021,D3FA,Steampunk,Closed,216837
+719,Street 02a#44a-37,364,7/14/2021,D3FA,Shoegaze,Closed,726009
+720,Transversal 90n#00J-52,131,12/18/2021,Lucia Tacchetti,Shoegaze,Open,65149
+721,Transversal 83b#86h-17,442,10/7/2021,Lucia Tacchetti,Steampunk,Closed,285643
+722,Career 80n#05m-50,312,9/25/2021,wiranda johansen,Steampunk,Closed,839692
+723,Avenue 53U#84P-09,458,9/3/2021,D3FA,Shoegaze,Open,647389
+724,Avenue Street 72A#27v-30,41,1/8/2022,D3FA,Steampunk,Open,990870
+725,Career 12E#64n-01,42,7/2/2021,wiranda johansen,Steampunk,Open,693048
+726,Transversal 73V#55J-15,16,2/25/2022,D3FA,Steampunk,Open,239764
+727,Career 11F#27U-73,243,12/4/2021,Molok0,Steampunk,Open,670869
+728,Street 53D#17M-41,77,5/29/2021,D3FA,Rock Punk,Closed,228359
+729,Career 42V#41J-84,445,3/21/2022,D3FA,Rock Punk,Closed,333476
+730,Career 22b#95F-30,406,12/5/2021,Lucia Tacchetti,Steampunk,Closed,66086
+731,Transversal 96J#87y-45,23,7/27/2021,D3FA,Steampunk,Open,903411
+732,Career 15f#32D-73,301,4/24/2022,Lucia Tacchetti,New Wave,Open,586174
+733,Transversal 71Z#32y-48,20,2/12/2022,D3FA,Steampunk,Open,426542
+734,Transversal 01r#09d-26,212,7/19/2021,Lucia Tacchetti,Shoegaze,Open,894216
+735,Avenue 96h#53U-01,271,11/30/2021,D3FA,Shoegaze,Open,348360
+736,Avenue 77T#88u-08,106,1/8/2022,D3FA,Rock Punk,Open,985934
+737,Transversal 87x#08O-85,213,8/3/2021,Lucia Tacchetti,Steampunk,Open,352192
+738,Career 51z#08Z-91,122,9/3/2021,Chiara Parravicini,Steampunk,Closed,818680
+739,Transversal 55c#33C-65,184,9/2/2021,D3FA,Shoegaze,Open,138808
+740,Career 57j#04G-20,43,6/24/2021,D3FA,Shoegaze,Closed,15523
+741,Transversal 40v#10g-37,76,3/8/2022,Girl Ultra,Steampunk,Closed,804422
+742,Career 82R#25Q-68,309,10/19/2021,Lucia Tacchetti,New Wave,Closed,497771
+743,Transversal 54g#09p-74,1,1/19/2022,D3FA,Steampunk,Open,188116
+744,Transversal 07V#96o-07,171,8/12/2021,D3FA,Shoegaze,Open,517697
+745,Transversal 60v#25b-34,24,4/4/2022,D3FA,Rock Punk,Open,491848
+746,Transversal 61E#53j-63,409,12/14/2021,D3FA,Steampunk,Closed,800865
+747,Career 23q#32W-91,60,12/7/2021,D3FA,Shoegaze,Closed,655103
+748,Street 87a#77v-01,500,7/31/2021,Lucia Tacchetti,Steampunk,Closed,732089
+749,Career 85J#29Q-50,396,12/4/2021,D3FA,Rock Punk,Open,413080
+750,Transversal 66p#95s-40,326,7/15/2021,D3FA,Shoegaze,Open,125758
+751,Transversal 83w#59m-51,194,10/29/2021,wiranda johansen,Steampunk,Open,693440
+752,Transversal 91B#20l-04,492,9/24/2021,wiranda johansen,Shoegaze,Closed,480197
+753,Career 52u#15c-10,182,1/8/2022,D3FA,Shoegaze,Closed,838828
+754,Career 86k#97k-50,313,7/11/2021,Lucia Tacchetti,Steampunk,Open,580481
+755,Transversal 77J#61i-42,19,9/20/2021,D3FA,Rock Punk,Open,228545
+756,Transversal 00s#63y-34,243,1/13/2022,D3FA,Rock Punk,Closed,410297
+757,Transversal 27E#78B-06,408,9/12/2021,D3FA,Shoegaze,Closed,878681
+758,Transversal 00W#00m-87,100,8/17/2021,D3FA,Steampunk,Closed,379085
+759,Transversal 27i#41Y-63,328,10/27/2021,D3FA,Shoegaze,Open,822296
+760,Transversal 72R#23e-48,447,9/13/2021,D3FA,Steampunk,Closed,363926
+761,Avenue Street 66h#87b-57,154,8/18/2021,D3FA,Rock Punk,Closed,291897
+762,Career 18x#77r-58,49,7/28/2021,D3FA,Steampunk,Open,109960
+763,Transversal 13q#43f-93,91,9/9/2021,Lucia Tacchetti,Steampunk,Closed,775063
+764,Avenue Street 69z#30g-97,499,4/18/2022,Lucia Tacchetti,Steampunk,Open,760957
+765,Transversal 54V#49o-49,310,6/10/2021,D3FA,New Wave,Closed,855519
+766,Career 98z#19V-19,112,9/10/2021,wiranda johansen,Shoegaze,Closed,99673
+767,Avenue Street 75O#73L-03,322,2/20/2022,Lucia Tacchetti,New Wave,Open,159760
+768,Transversal 27p#35F-30,491,11/24/2021,Lucia Tacchetti,Shoegaze,Closed,216837
+769,Street 73i#34b-98,448,9/1/2021,Lucia Tacchetti,Steampunk,Closed,726009
+770,Street 27d#50t-56,116,6/26/2021,D3FA,Rock Punk,Closed,65149
+771,Career 32Z#16c-79,60,11/21/2021,D3FA,Steampunk,Closed,285643
+772,Transversal 35D#92K-31,345,4/28/2022,D3FA,Rock Punk,Open,839692
+773,Career 87b#50i-93,485,1/31/2022,D3FA,Steampunk,Open,647389
+774,Transversal 20U#34c-82,266,12/16/2021,D3FA,Shoegaze,Open,990870
+775,Transversal 78v#56a-56,35,10/11/2021,wiranda johansen,Steampunk,Closed,693048
+776,Transversal 75t#68t-60,489,5/18/2022,D3FA,Steampunk,Open,239764
+777,Transversal 93V#74b-33,55,7/25/2021,D3FA,Rock Punk,Closed,670869
+778,Transversal 07W#27Y-30,445,5/24/2021,D3FA,Steampunk,Open,228359
+779,Avenue Street 84I#18Q-87,414,4/20/2022,D3FA,Shoegaze,Open,333476
+780,Transversal 34M#81v-23,239,5/22/2021,D3FA,Steampunk,Closed,66086
+781,Career 22b#95F-30,473,11/13/2021,D3FA,Steampunk,Closed,903411
+782,Transversal 88j#98M-84,292,10/28/2021,Lucia Tacchetti,Musique Concrète,Open,586174
+783,Transversal 61a#80h-42,197,6/20/2021,Lucia Tacchetti,Shoegaze,Open,426542
+784,Career 31o#22G-07,255,10/26/2021,D3FA,Shoegaze,Open,894216
+785,Avenue 67t#40U-28,96,11/12/2021,Lucia Tacchetti,Steampunk,Open,348360
+786,Transversal 40A#64C-55,296,9/21/2021,D3FA,Rock Punk,Closed,985934
+787,Transversal 84P#33F-90,184,4/11/2022,wiranda johansen,Shoegaze,Closed,352192
+788,Avenue 86d#24T-67,21,12/7/2021,D3FA,Steampunk,Closed,818680
+789,Avenue 08R#73V-15,170,3/11/2022,D3FA,Steampunk,Open,138808
+790,Street 09d#34W-68,110,3/28/2022,D3FA,Shoegaze,Open,15523
+791,Career 52d#97A-73,340,2/17/2022,D3FA,Steampunk,Open,804422
+792,Transversal 48u#72L-15,307,2/1/2022,wiranda johansen,Rock Punk,Open,497771
+793,Transversal 40F#85H-45,480,5/20/2022,wiranda johansen,Steampunk,Open,188116
+794,Career 36H#04I-31,59,2/21/2022,Lucia Tacchetti,Shoegaze,Open,517697
+795,Transversal 63m#57W-88,359,3/9/2022,D3FA,Steampunk,Open,491848
+796,Career 85t#72Q-06,411,11/17/2021,D3FA,Shoegaze,Closed,800865
+797,Transversal 17x#63L-28,53,10/2/2021,D3FA,Steampunk,Open,655103
+798,Transversal 96y#12N-89,90,1/3/2022,Molok0,Rock Punk,Open,732089
+799,Career 06G#39q-50,72,2/28/2022,Lucia Tacchetti,Steampunk,Open,413080
+800,Transversal 80n#39m-90,149,4/26/2022,Lucia Tacchetti,Steampunk,Closed,125758
+801,Transversal 85F#60N-50,271,8/7/2021,D3FA,Steampunk,Closed,693440
+802,Street 77h#03z-06,451,7/11/2021,wiranda johansen,Shoegaze,Open,480197
+803,Transversal 61j#73P-20,111,5/10/2022,Lucia Tacchetti,Shoegaze,Open,838828
+804,Transversal 28t#42g-18,236,7/22/2021,D3FA,Shoegaze,Open,580481
+805,Transversal 29p#42D-04,464,9/3/2021,Lucia Tacchetti,Steampunk,Closed,228545
+806,Career 52n#24P-43,282,10/16/2021,wiranda johansen,Shoegaze,Open,410297
+807,Transversal 24P#46W-45,96,6/7/2021,Lucia Tacchetti,Steampunk,Open,878681
+808,Career 48y#33Z-56,113,1/31/2022,Lucia Tacchetti,Shoegaze,Closed,379085
+809,Transversal 82g#86l-25,13,8/15/2021,D3FA,Steampunk,Open,822296
+810,Career 18x#77r-58,195,2/8/2022,Lucia Tacchetti,Musique Concrète,Closed,363926
+811,Transversal 14p#45Y-19,456,7/23/2021,Lucia Tacchetti,Steampunk,Open,291897
+812,Transversal 62V#42x-89,446,4/29/2022,D3FA,New Wave,Open,109960
+813,Transversal 24k#03y-15,203,6/11/2021,D3FA,Steampunk,Closed,775063
+814,Avenue 16C#03a-50,462,1/29/2022,D3FA,Shoegaze,Open,760957
+815,Transversal 79E#19U-29,25,5/9/2022,wiranda johansen,Musique Concrète,Closed,855519
+816,Transversal 16f#20g-90,270,9/22/2021,Lucia Tacchetti,Progressive,Closed,99673
+817,Street 48u#64u-04,2,4/5/2022,D3FA,Progressive,Open,159760
+818,Transversal 37A#14n-12,118,3/11/2022,D3FA,Steampunk,Open,216837
+819,Avenue Street 69z#30g-97,280,8/7/2021,Lucia Tacchetti,Rock Punk,Closed,726009
+820,Avenue 87r#53h-96,427,7/6/2021,Lucia Tacchetti,Shoegaze,Closed,65149
+821,Avenue 96R#22M-29,419,12/8/2021,D3FA,Progressive,Closed,285643
+822,Transversal 20n#85z-35,114,10/20/2021,D3FA,Steampunk,Open,839692
+823,Transversal 97t#62L-29,345,1/4/2022,Ghetto Kids,Rock Punk,Closed,647389
+824,Career 67I#95T-54,75,5/5/2022,D3FA,Progressive,Open,990870
+825,Career 20X#52S-81,67,7/16/2021,D3FA,Steampunk,Closed,693048
+826,Transversal 76u#20x-27,75,3/28/2022,D3FA,Steampunk,Open,239764
+827,Transversal 39U#97H-36,486,8/31/2021,D3FA,Progressive,Open,670869
+828,Career 07b#86Q-44,59,8/8/2021,Lucia Tacchetti,Shoegaze,Open,228359
+829,Transversal 39c#15P-59,265,10/27/2021,wiranda johansen,Rock Punk,Open,333476
+830,Career 87a#28E-93,160,11/14/2021,D3FA,Rock Punk,Closed,66086
+831,Avenue 25y#54O-63,443,9/25/2021,Girl Ultra,Steampunk,Open,903411
+832,Transversal 44J#37B-08,26,5/10/2022,Lucia Tacchetti,Progressive,Open,586174
+833,Career 16Z#70f-77,370,6/13/2021,D3FA,Steampunk,Closed,426542
+834,Transversal 87B#42w-84,347,12/17/2021,D3FA,Musique Concrète,Closed,894216
+835,Transversal 22T#00w-88,255,12/5/2021,D3FA,Shoegaze,Open,348360
+836,Career 50F#88H-24,35,5/1/2022,D3FA,Progressive,Open,985934
+837,Transversal 29e#90J-35,77,2/25/2022,D3FA,Shoegaze,Open,352192
+838,Transversal 02s#82u-05,277,11/2/2021,Lucia Tacchetti,Steampunk,Open,818680
+839,Career 87v#34S-28,58,10/22/2021,D3FA,Steampunk,Open,138808
+840,Transversal 73R#04A-54,44,4/17/2022,D3FA,Steampunk,Closed,15523
+841,Avenue 07b#61y-24,367,1/3/2022,D3FA,Shoegaze,Closed,804422
+842,Transversal 26i#18a-76,186,4/19/2022,D3FA,Steampunk,Open,497771
+843,Transversal 34M#81v-23,165,3/13/2022,D3FA,Shoegaze,Closed,188116
+844,Transversal 32I#96k-91,434,7/4/2021,Lucia Tacchetti,Steampunk,Open,517697
+845,Transversal 15N#53d-20,46,3/5/2022,D3FA,Shoegaze,Open,491848
+846,Transversal 95a#43N-01,4,2/17/2022,Ghetto Kids,Progressive,Closed,800865
+847,Career 65i#99Q-60,398,6/15/2021,D3FA,Steampunk,Open,655103
+848,Transversal 59O#62r-64,185,5/31/2021,Lucia Tacchetti,Steampunk,Closed,732089
+849,Career 95I#72C-09,337,10/13/2021,D3FA,Steampunk,Open,413080
+850,Career 86T#14V-59,53,6/11/2021,D3FA,Rock Punk,Open,125758
+851,Transversal 52R#85d-46,86,4/15/2022,D3FA,Shoegaze,Closed,693440
+852,Career 44B#58e-89,200,4/25/2022,Girl Ultra,Steampunk,Closed,480197
+853,Transversal 68r#74x-56,285,2/16/2022,D3FA,Rock Punk,Closed,838828
+854,Career 56A#56L-98,284,10/15/2021,D3FA,Steampunk,Closed,580481
+855,Career 78N#38v-73,312,12/7/2021,Girl Ultra,Rock Punk,Closed,228545
+856,Career 26I#62B-46,15,6/16/2021,Chiara Parravicini,Steampunk,Open,410297
+857,Career 94E#58E-40,430,5/3/2022,Chiara Parravicini,Shoegaze,Open,878681
+858,Transversal 95d#57J-88,397,10/24/2021,D3FA,Shoegaze,Open,379085
+859,Transversal 65f#33N-92,111,11/13/2021,D3FA,Rock Punk,Open,822296
+860,Transversal 81b#51T-19,91,5/27/2021,D3FA,Rock Punk,Open,363926
+861,Transversal 57J#85U-36,410,6/19/2021,D3FA,Shoegaze,Closed,291897
+862,Street 73i#34b-98,252,1/27/2022,Lucia Tacchetti,Rock Punk,Open,109960
+863,Avenue 81I#62y-68,324,6/20/2021,D3FA,Steampunk,Closed,775063
+864,Transversal 27p#35F-30,495,11/19/2021,Molok0,Steampunk,Open,760957
+865,Avenue 25F#39s-55,135,6/26/2021,Lucia Tacchetti,Shoegaze,Open,855519
+866,Transversal 85G#12K-81,203,8/5/2021,Lucia Tacchetti,Rock Punk,Closed,99673
+867,Career 28w#45E-10,301,5/4/2022,Chiara Parravicini,Steampunk,Closed,159760
+868,Transversal 95u#40l-82,125,3/17/2022,D3FA,Steampunk,Closed,216837
+869,Career 65C#25x-05,65,6/10/2021,Lucia Tacchetti,Steampunk,Open,726009
+870,Transversal 61a#80h-42,141,8/5/2021,wiranda johansen,Steampunk,Open,65149
+871,Transversal 15M#41o-39,307,9/19/2021,wiranda johansen,Steampunk,Closed,285643
+872,Transversal 36z#64j-39,348,5/5/2022,D3FA,Steampunk,Open,839692
+873,Career 61f#38V-32,330,6/30/2021,D3FA,Progressive,Open,647389
+874,Career 48j#13J-42,186,8/30/2021,wiranda johansen,Shoegaze,Closed,990870
+875,Transversal 40U#41I-61,482,2/14/2022,Lucia Tacchetti,Rock Punk,Closed,693048
+876,Transversal 63i#77Y-84,100,4/9/2022,Lucia Tacchetti,Shoegaze,Open,239764
+877,Transversal 20U#34c-82,373,1/6/2022,D3FA,Steampunk,Closed,670869
+878,Transversal 22w#50g-28,52,8/3/2021,Lucia Tacchetti,Steampunk,Closed,228359
+879,Street 27d#50t-56,498,1/19/2022,D3FA,Steampunk,Closed,333476
+880,Transversal 04w#76s-94,29,2/11/2022,D3FA,Shoegaze,Closed,66086
+881,Career 12E#64n-01,220,4/27/2022,Lucia Tacchetti,Steampunk,Open,903411
+882,Transversal 14n#32G-49,476,2/11/2022,wiranda johansen,Rock Punk,Open,586174
+883,Transversal 42b#81g-80,101,8/6/2021,Molok0,Steampunk,Closed,426542
+884,Transversal 78A#56L-03,380,5/5/2022,wiranda johansen,Steampunk,Open,894216
+885,Avenue 56j#01Q-94,456,11/1/2021,wiranda johansen,Steampunk,Closed,348360
+886,Career 86e#83Q-79,445,5/9/2022,wiranda johansen,Musique Concrète,Closed,985934
+887,Transversal 99V#56C-21,290,1/9/2022,Chiara Parravicini,Shoegaze,Closed,352192
+888,Transversal 33O#73L-98,67,9/6/2021,wiranda johansen,Rock Punk,Open,818680
+889,Transversal 26Y#82Q-06,195,8/3/2021,D3FA,Rock Punk,Closed,138808
+890,Transversal 30w#53E-51,416,11/20/2021,wiranda johansen,Steampunk,Open,15523
+891,Transversal 46R#36X-37,248,4/28/2022,Lucia Tacchetti,Steampunk,Open,804422
+892,Avenue 75N#76v-04,257,10/15/2021,Molok0,Progressive,Closed,497771
+893,Transversal 07D#51E-39,481,5/3/2022,Chiara Parravicini,Steampunk,Closed,188116
+894,Career 55S#67p-67,186,8/12/2021,D3FA,Shoegaze,Open,517697
+895,Avenue Street 71I#98p-73,51,6/2/2021,D3FA,Rock Punk,Closed,491848
+896,Transversal 30r#18R-49,290,2/12/2022,Chiara Parravicini,Steampunk,Closed,800865
+897,Avenue 04H#77Y-72,220,9/13/2021,Lucia Tacchetti,Shoegaze,Open,655103
+898,Transversal 52U#73R-73,470,12/14/2021,Ghetto Kids,Shoegaze,Closed,732089
+899,Career 99Z#47n-15,115,9/28/2021,D3FA,Steampunk,Closed,413080
+900,Transversal 49P#81E-01,140,8/26/2021,Lucia Tacchetti,Rock Punk,Open,125758
+901,Transversal 30e#99g-61,466,6/28/2021,wiranda johansen,Rock Punk,Open,693440
+902,Avenue Street 75O#73L-03,273,2/8/2022,wiranda johansen,Progressive,Open,480197
+903,Transversal 41P#42s-72,127,4/29/2022,Lucia Tacchetti,Steampunk,Open,838828
+904,Transversal 91A#44A-81,412,6/9/2021,D3FA,Steampunk,Open,580481
+905,Transversal 48u#72L-15,117,3/24/2022,D3FA,Progressive,Open,228545
+906,Transversal 49F#43a-23,293,9/24/2021,D3FA,Steampunk,Closed,410297
+907,Avenue 84s#99k-25,97,1/28/2022,D3FA,Steampunk,Open,878681
+908,Career 52f#29C-24,235,7/26/2021,wiranda johansen,Shoegaze,Open,379085
+909,Transversal 49m#66W-46,297,4/9/2022,Lucia Tacchetti,Progressive,Open,822296
+910,Transversal 02b#71i-05,81,11/25/2021,Lucia Tacchetti,Shoegaze,Closed,363926
+911,Transversal 52L#08M-99,29,9/5/2021,Chiara Parravicini,Steampunk,Open,291897
+912,Transversal 68r#74x-56,308,7/6/2021,D3FA,Shoegaze,Closed,109960
+913,Avenue Street 90l#94i-25,356,10/4/2021,wiranda johansen,Steampunk,Closed,775063
+914,Transversal 46b#10e-92,285,5/12/2022,D3FA,Rock Punk,Open,760957
+915,Career 19F#66i-62,27,8/20/2021,D3FA,Steampunk,Open,855519
+916,Transversal 74I#45v-71,61,4/23/2022,D3FA,Steampunk,Open,99673
+917,Street 23n#06p-13,436,2/28/2022,D3FA,Rock Punk,Closed,159760
+918,Transversal 36C#84F-11,5,7/11/2021,D3FA,Steampunk,Open,216837
+919,Career 44z#65A-43,450,12/12/2021,Lucia Tacchetti,Steampunk,Open,726009
+920,Transversal 92d#80A-32,317,12/11/2021,D3FA,Progressive,Open,65149
+921,Career 51c#82h-48,463,3/22/2022,D3FA,Rock Punk,Closed,285643
+922,Transversal 46p#06C-09,256,12/17/2021,wiranda johansen,Steampunk,Open,839692
+923,Street 78u#66x-73,295,11/15/2021,Lucia Tacchetti,Progressive,Open,647389
+924,Avenue 37g#69S-58,64,12/14/2021,wiranda johansen,Steampunk,Closed,990870
+925,Avenue 12U#82M-88,141,11/18/2021,Lucia Tacchetti,Rock Punk,Open,693048
+926,Career 92r#78r-67,402,6/7/2021,D3FA,Shoegaze,Closed,239764
+927,Career 00z#88P-84,496,4/14/2022,Lucia Tacchetti,Shoegaze,Closed,670869
+928,Career 70Z#46A-60,403,6/11/2021,D3FA,Shoegaze,Open,228359
+929,Transversal 17l#86B-61,484,10/28/2021,D3FA,Steampunk,Open,333476
+930,Transversal 16f#20g-90,82,8/3/2021,Lucia Tacchetti,Shoegaze,Open,66086
+931,Transversal 65f#33N-92,115,1/6/2022,D3FA,Shoegaze,Closed,903411
+932,Transversal 72W#78l-00,276,6/17/2021,Lucia Tacchetti,Steampunk,Closed,586174
+933,Transversal 07h#75S-59,142,9/22/2021,D3FA,Progressive,Open,426542
+934,Transversal 48S#07J-58,177,12/23/2021,Chiara Parravicini,Steampunk,Closed,894216
+935,Career 42T#71f-06,320,9/15/2021,D3FA,Steampunk,Open,348360
+936,Career 94D#49P-32,100,5/5/2022,Lucia Tacchetti,Steampunk,Open,985934
+937,Career 16Z#70f-77,496,5/6/2022,Lucia Tacchetti,Shoegaze,Open,352192
+938,Transversal 02c#18b-34,9,2/12/2022,D3FA,Shoegaze,Open,818680
+939,Transversal 02b#19F-87,204,6/19/2021,Lucia Tacchetti,Steampunk,Closed,138808
+940,Transversal 74D#40U-65,66,11/14/2021,D3FA,Steampunk,Closed,15523
+941,Transversal 40A#64C-55,285,6/5/2021,Chiara Parravicini,Steampunk,Open,804422
+942,Career 20M#76n-27,242,5/29/2021,Lucia Tacchetti,Steampunk,Open,497771
+943,Transversal 27X#99O-35,258,7/28/2021,Lucia Tacchetti,Steampunk,Open,188116
+944,Transversal 36g#72n-41,424,6/27/2021,D3FA,Steampunk,Closed,517697
+945,Transversal 34M#81v-23,340,10/23/2021,D3FA,Steampunk,Closed,491848
+946,Transversal 14n#32G-49,161,12/24/2021,Lucia Tacchetti,Steampunk,Open,800865
+947,Career 08q#85t-03,419,2/3/2022,Lucia Tacchetti,Steampunk,Closed,655103
+948,Career 56a#11D-36,469,4/28/2022,D3FA,Steampunk,Open,732089
+949,Transversal 26L#21c-06,40,2/9/2022,D3FA,Shoegaze,Open,413080
+950,Transversal 19c#70V-78,58,11/21/2021,D3FA,New Wave,Open,125758
+951,Transversal 71Z#32y-48,216,8/26/2021,D3FA,Steampunk,Closed,693440
+952,Career 19D#04C-30,171,11/7/2021,D3FA,Steampunk,Open,480197
+953,Avenue 25y#54O-63,47,7/29/2021,Lucia Tacchetti,Steampunk,Closed,838828
+954,Avenue 11w#75b-78,383,3/20/2022,D3FA,Progressive,Open,580481
+955,Street 51J#16o-14,309,5/5/2022,Lucia Tacchetti,Shoegaze,Closed,228545
+956,Transversal 55v#38k-30,345,8/8/2021,wiranda johansen,Shoegaze,Open,410297
+957,Transversal 93V#74b-33,307,9/15/2021,wiranda johansen,Steampunk,Open,878681
+958,Transversal 46B#05G-26,340,11/17/2021,D3FA,Steampunk,Open,379085
+959,Transversal 88j#98M-84,427,3/16/2022,wiranda johansen,Steampunk,Closed,822296
+960,Transversal 27E#78B-06,449,8/15/2021,D3FA,Steampunk,Open,363926
+961,Transversal 32I#96k-91,419,7/14/2021,D3FA,Lo fi,Open,291897
+962,Transversal 30b#54Y-67,268,12/2/2021,wiranda johansen,Steampunk,Open,109960
+963,Transversal 51V#40K-63,479,7/7/2021,D3FA,Shoegaze,Closed,775063
+964,Transversal 87w#51Z-09,467,9/4/2021,D3FA,Steampunk,Closed,760957
+965,Career 74r#43H-48,227,2/15/2022,Chiara Parravicini,Steampunk,Open,855519
+966,Transversal 41B#45m-19,97,8/3/2021,Lucia Tacchetti,Steampunk,Open,99673
+967,Career 18K#11j-02,18,10/23/2021,D3FA,Steampunk,Closed,159760
+968,Career 93G#53K-22,149,4/8/2022,Chiara Parravicini,Rock Punk,Open,216837
+969,Avenue 67H#12t-82,423,4/24/2022,D3FA,Rock Punk,Closed,726009
+970,Street 50G#28u-65,478,1/3/2022,wiranda johansen,Steampunk,Closed,65149
+971,Transversal 11z#23T-74,496,3/30/2022,D3FA,Steampunk,Closed,285643
+972,Transversal 97z#98M-02,236,7/13/2021,D3FA,Steampunk,Closed,839692
+973,Transversal 99t#60H-00,377,7/4/2021,Chiara Parravicini,Shoegaze,Open,647389
+974,Avenue Street 33u#44F-10,309,4/9/2022,Lucia Tacchetti,Steampunk,Open,990870
+975,Transversal 90m#57Q-44,310,10/28/2021,Lucia Tacchetti,Rock Punk,Closed,693048
+976,Transversal 38y#94n-08,313,12/31/2021,D3FA,Steampunk,Closed,239764
+977,Transversal 11O#00P-61,340,11/22/2021,D3FA,Steampunk,Open,670869
+978,Street 99j#42O-18,172,1/30/2022,wiranda johansen,Shoegaze,Open,228359
+979,Career 94D#49P-32,160,5/25/2021,D3FA,Steampunk,Closed,333476
+980,Transversal 19H#09W-41,417,9/26/2021,D3FA,Shoegaze,Closed,66086
+981,Avenue Street 71I#98p-73,142,8/24/2021,D3FA,Steampunk,Closed,903411
+982,Transversal 47z#16z-77,251,12/1/2021,D3FA,New Wave,Open,586174
+983,Transversal 80n#39m-90,197,8/3/2021,D3FA,Steampunk,Closed,426542
+984,Transversal 38o#86t-99,294,7/2/2021,D3FA,Steampunk,Closed,894216
+985,Avenue 84s#99k-25,39,11/29/2021,D3FA,Shoegaze,Closed,348360
+986,Career 70Z#46A-60,1,7/13/2021,Lucia Tacchetti,Steampunk,Closed,985934
+987,Career 19m#40q-43,283,1/25/2022,Lucia Tacchetti,Steampunk,Closed,352192
+988,Transversal 26U#86O-17,279,5/7/2022,D3FA,Shoegaze,Closed,818680
+989,Career 07t#05e-16,292,8/5/2021,wiranda johansen,Rock Punk,Open,138808
+990,Career 52d#97A-73,172,4/25/2022,Lucia Tacchetti,Steampunk,Closed,15523
+991,Avenue 90e#15W-00,300,1/25/2022,Chiara Parravicini,Steampunk,Closed,804422
+992,Career 77h#46N-29,203,4/27/2022,Lucia Tacchetti,Progressive,Open,497771
+993,Avenue 43M#09x-97,65,8/18/2021,Lucia Tacchetti,Steampunk,Open,188116
+994,Career 57j#04G-20,41,5/2/2022,Chiara Parravicini,Steampunk,Closed,517697
+995,Career 89R#39b-38,237,11/13/2021,Lucia Tacchetti,Shoegaze,Closed,491848
+996,Avenue 68M#40G-05,166,7/27/2021,D3FA,Progressive,Open,800865
+997,Avenue Street 90l#94i-25,122,5/5/2022,wiranda johansen,Steampunk,Open,655103
+998,Transversal 08U#84W-66,342,12/26/2021,D3FA,Steampunk,Open,732089
+999,Transversal 73a#49i-85,2,8/8/2021,D3FA,Steampunk,Closed,413080
+1000,Career 41w#19t-08,36,6/16/2021,D3FA,New Wave,Closed,125758

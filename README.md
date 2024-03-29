@@ -1,8 +1,8 @@
 # Modelos y Bases de Datos MBDA - Diseño y construcción de una base de datos para una organización propia llamada N8
 
-## Resumen
-
 Proyecto destacado de la asignatura de Modelos y Bases de Datos (MBDA).
+
+## Resumen
 
 Definición de los modelos conceptual, lógico y físico para el negocio.
 
